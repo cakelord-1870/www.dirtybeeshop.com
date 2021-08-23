@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.dirtybeeshop.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.dirtybeeshop.com/collections/bath-bombs.atom"/>
+  <title>DIRTY BEE</title>
+  <updated>2021-08-02T13:36:38-05:00</updated>
+  <author>
+    <name>DIRTY BEE</name>
+  </author>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6632124153934</id>
+    <published>2021-08-02T13:36:38-05:00</published>
+    <updated>2021-08-02T13:36:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/shea-coconut-bath-bomb-pack-of-14-wholesale"/>
+    <title>Shea Coconut Bath Bomb Pack of 14 - Wholesale</title>
+    <s:type>Bath &amp; Body</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/BathBombBubbly-08.jpg?v=1628962015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Bath &amp; Body<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee |Bath Bomb Bubbly</strong></p>
+<p>The perfect blend of <span>essential oil blends for aromatherapy and relaxation. </span></p>
+<p><span>Main Ingredients: Sodium Bicarbonate, Citric Acid, Water, Fragrance, Color</span><br><br><strong>Handmade in the USA </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Bathbomb</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Shea Coconut</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6632124153934</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>DB5331A</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4814013595726</id>
+    <published>2021-08-02T09:41:57-05:00</published>
+    <updated>2021-08-02T09:41:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/luau-bath-bomb-pack-of-14-wholesale"/>
+    <title>Luau Bath Bomb Pack of 14 - Wholesale</title>
+    <s:type>Bath Bomb Bubbly</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/BathBombBubbly-14.jpg?v=1627915217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Bath Bomb Bubbly<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1">Dirty Bee  |  Bath Bomb Bubbly</strong></p>
+<p data-mce-fragment="1"><b>Luau : </b> Tropical fruits and floral blend</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dirty Bee</strong>’s<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Bath Bombs</strong><span data-mce-fragment="1"> </span>are the perfect ingredient to a warm relaxing bath.  Before getting in the tub, drop of these big boys in the tub and watch the magic happen as the color fills the water (don’t you worry, it won’t stain that pretty white) to release a relaxing aroma that will surely fill the air to take your troubles away.    </p>
+<p data-mce-fragment="1">We use only the VERY best, 100% American, ingredients.  When it comes to our skin, we don’t take any shortcuts to offer products that you and your entire family will enjoy for years to come. </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Ingredients:</strong><span data-mce-fragment="1"> </span>Sodium Bicarbonate, Citric Acid, Cocoa Butter, Shea Butter, Epsom Salt, Fragrance, Essential Oil Blend, Filtered Water, Clay or Oxides for Coloring</p>
+<p data-mce-fragment="1">Handmade in the USA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Bathbomb</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Luau</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4814013595726</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>DB1651A</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6599781154894</id>
+    <published>2021-05-17T09:51:12-05:00</published>
+    <updated>2021-05-17T09:51:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/skyfall-bath-bomb-bubbly"/>
+    <title>Skyfall Bath Bomb Bubbly</title>
+    <s:type>Bath Bomb Bubbly</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/BathBombs-02_1.jpg?v=1628962291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Bath Bomb Bubbly<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee  |  Bath Bomb Bubbly</strong></p>
+<p><strong>Skyfall: </strong>Blend of cedar and spice</p>
+<p><strong>Dirty Bee</strong>’s <strong>Bath Bombs</strong> are the perfect ingredient to a warm relaxing bath.  Before getting in the tub, drop of these big boys in the tub and watch the magic happen as the color fills the water (don’t you worry, it won’t stain that pretty white) to release a relaxing aroma that will surely fill the air to take your troubles away.    <br></p>
+<p>We use only the VERY best, 100% American, ingredients.  When it comes to our skin, we don’t take any shortcuts to offer products that you and your entire family will enjoy for years to come. </p>
+<p><strong>Ingredients:</strong> Sodium Bicarbonate, Citric Acid, Cocoa Butter, Shea Butter, Epsom Salt, Fragrance, Essential Oil Blend, Filtered Water, Clay or Oxides for Coloring</p>
+<p><strong>Handmade in the USA</strong><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Bathbomb</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Skyfall</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6599781154894</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>DB5027A</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4913060806734</id>
+    <published>2021-01-04T19:14:25-06:00</published>
+    <updated>2021-01-04T19:14:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/shea-coconut-bath-bomb-bubbly"/>
+    <title>Shea Coconut Bath Bomb Bubbly</title>
+    <s:type>Bath &amp; Body</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/BathBombs-07_62780dd7-5109-419b-8547-bf80818bfe2d.jpg?v=1627930548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Bath &amp; Body<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee | Bath Bomb Bubbly</strong></p>
+<p><strong> Shea Coconut:</strong> Blends of shea butter anda dash of coconut</p>
+<p><strong>Dirty Bee</strong>’s <strong>Bath Bombs</strong> are the perfect ingredient to a warm relaxing bath.  Before getting in the tub, drop of these big boys in the tub and watch the magic happen as the color fills the water (don’t you worry, it won’t stain that pretty white) to release a relaxing aroma that will surely fill the air to take your troubles away.    </p>
+<p>We use only the VERY best, 100% American, ingredients.  When it comes to our skin, we don’t take any shortcuts to offer products that you and your entire family will enjoy for years to come. </p>
+<p><strong>Ingredients:</strong> Sodium Bicarbonate, Citric Acid, Cocoa Butter, Shea Butter, Epsom Salt, Fragrance, Essential Oil Blend, Filtered Water, Clay or Oxides for Coloring</p>
+<p><strong>Handmade in the USA</strong><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Bathbomb</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Shea Coconut</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4913060806734</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>DB1924A</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4814010712142</id>
+    <published>2020-10-13T21:04:00-05:00</published>
+    <updated>2020-10-13T21:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/luau-bath-bomb-bubbly"/>
+    <title>Luau Bath Bomb Bubbly</title>
+    <s:type>Bath Bomb Bubbly</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/BathBombs-06.jpg?v=1627930355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Bath Bomb Bubbly<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee  |  Bath Bomb Bubbly</strong></p>
+<p><strong>LUAU- </strong>Tropical fruits and floral blend</p>
+<p><strong>Dirty Bee</strong>’s <strong>Bath Bombs</strong> are the perfect ingredient to a warm relaxing bath.  Before getting in the tub, drop of these big boys in the tub and watch the magic happen as the color fills the water (don’t you worry, it won’t stain that pretty white) to release a relaxing aroma that will surely fill the air to take your troubles away.    </p>
+<p>We use only the VERY best, 100% American, ingredients.  When it comes to our skin, we don’t take any shortcuts to offer products that you and your entire family will enjoy for years to come. </p>
+<p><strong>Ingredients:</strong> Sodium Bicarbonate, Citric Acid, Cocoa Butter, Shea Butter, Epsom Salt, Fragrance, Essential Oil Blend, Filtered Water, Clay or Oxides for Coloring</p>
+<p><strong>Handmade in the USA</strong><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Bathbomb</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Luau</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4814010712142</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>DB1650A</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4114218778702</id>
+    <published>2020-07-21T13:37:35-05:00</published>
+    <updated>2020-07-21T13:37:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/turquoise-lace-mini-bath-bomb-pack-of-25-wholesale"/>
+    <title>Turquoise &amp; Lace Bath Bomb Pack of 14 - Wholesale</title>
+    <s:type>Bath &amp; Body</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/BathBombBubbly-26-Copy.jpg?v=1627929100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Bath &amp; Body<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1">Dirty Bee  |  Bath Bomb Bubbly</strong></p>
+<p data-mce-fragment="1"><b>Turquoise and Lace: </b>Clean fresh linen mixed with the smell of Arizona Summer</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dirty Bee</strong>’s<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Bath Bombs</strong><span data-mce-fragment="1"> </span>are the perfect ingredient to a warm relaxing bath.  Before getting in the tub, drop of these big boys in the tub and watch the magic happen as the color fills the water (don’t you worry, it won’t stain that pretty white) to release a relaxing aroma that will surely fill the air to take your troubles away.    </p>
+<p data-mce-fragment="1">We use only the VERY best, 100% American, ingredients.  When it comes to our skin, we don’t take any shortcuts to offer products that you and your entire family will enjoy for years to come. </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Ingredients:</strong><span data-mce-fragment="1"> </span>Sodium Bicarbonate, Citric Acid, Cocoa Butter, Shea Butter, Epsom Salt, Fragrance, Essential Oil Blend, Filtered Water, Clay or Oxides for Coloring</p>
+<p data-mce-fragment="1">Handmade in the USA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Bathbomb</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Turquoise &amp; Lace</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4114218778702</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>DB1070</s:sku>
+      <s:grams>2211</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4114221367374</id>
+    <published>2019-09-18T14:43:19-05:00</published>
+    <updated>2019-09-18T14:43:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/wild-leopard-bath-bomb-pack-of-14-wholesale"/>
+    <title>Wild Leopard Bath Bomb Pack of 14 - Wholesale</title>
+    <s:type>Bath Bomb Bubbly</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/BathBombBubbly-17.jpg?v=1627915202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Bath Bomb Bubbly<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1">Dirty Bee  |  Bath Bomb Bubbly</strong></p>
+<p data-mce-fragment="1"><b>Wild Leopard: <strong data-mce-fragment="1"> </strong></b>Floral with orange flower note blended with ginger and honey sandalwood</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dirty Bee</strong>’s<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Bath Bombs</strong><span data-mce-fragment="1"> </span>are the perfect ingredient to a warm relaxing bath.  Before getting in the tub, drop of these big boys in the tub and watch the magic happen as the color fills the water (don’t you worry, it won’t stain that pretty white) to release a relaxing aroma that will surely fill the air to take your troubles away.    </p>
+<p data-mce-fragment="1">We use only the VERY best, 100% American, ingredients.  When it comes to our skin, we don’t take any shortcuts to offer products that you and your entire family will enjoy for years to come. </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Ingredients:</strong><span data-mce-fragment="1"> </span>Sodium Bicarbonate, Citric Acid, Cocoa Butter, Shea Butter, Epsom Salt, Fragrance, Essential Oil Blend, Filtered Water, Clay or Oxides for Coloring</p>
+<p data-mce-fragment="1">Handmade in the USA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Bathbomb</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Wild Leopard</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4114221367374</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>DB1071</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4114221269070</id>
+    <published>2019-09-18T14:43:09-05:00</published>
+    <updated>2019-09-18T14:43:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/wild-leopard-bath-bomb-bubbly"/>
+    <title>Wild Leopard Bath Bomb Bubbly</title>
+    <s:type>Bath &amp; Body</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/BathBombs-11.jpg?v=1627930639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Bath &amp; Body<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1">Dirty Bee  |  Bath Bomb Bubbly</strong></p>
+<p data-mce-fragment="1"><b>Wild Leopard: </b>Floral with orange flowers blended with honey sandalwood and ginger</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dirty Bee</strong>’s<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Bath Bombs</strong><span data-mce-fragment="1"> </span>are the perfect ingredient to a warm relaxing bath.  Before getting in the tub, drop of these big boys in the tub and watch the magic happen as the color fills the water (don’t you worry, it won’t stain that pretty white) to release a relaxing aroma that will surely fill the air to take your troubles away.    </p>
+<p data-mce-fragment="1">We use only the VERY best, 100% American, ingredients.  When it comes to our skin, we don’t take any shortcuts to offer products that you and your entire family will enjoy for years to come. </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Ingredients:</strong><span data-mce-fragment="1"> </span>Sodium Bicarbonate, Citric Acid, Cocoa Butter, Shea Butter, Epsom Salt, Fragrance, Essential Oil Blend, Filtered Water, Clay or Oxides for Coloring</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Handmade in the USA</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Bathbomb</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Wild Leopard</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4114221269070</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>DB0725</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4114217697358</id>
+    <published>2019-09-18T14:39:02-05:00</published>
+    <updated>2019-09-18T14:39:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/orange-citrus-bath-bomb-pack-of-14-wholesale"/>
+    <title>Orange Citrus Bath Bomb Pack of 14 - Wholesale</title>
+    <s:type>Bath &amp; Body</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/BathBombBubbly-11_1_-Copy.jpg?v=1627928823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Bath &amp; Body<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1">Dirty Bee  |  Bath Bomb Bubbly</strong></p>
+<p data-mce-fragment="1"><b>Orange Citrus:</b> Grapefruit and orange combo scent</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dirty Bee</strong>’s<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Bath Bombs</strong><span data-mce-fragment="1"> </span>are the perfect ingredient to a warm relaxing bath.  Before getting in the tub, drop of these big boys in the tub and watch the magic happen as the color fills the water (don’t you worry, it won’t stain that pretty white) to release a relaxing aroma that will surely fill the air to take your troubles away.    </p>
+<p data-mce-fragment="1">We use only the VERY best, 100% American, ingredients.  When it comes to our skin, we don’t take any shortcuts to offer products that you and your entire family will enjoy for years to come. </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Ingredients:</strong><span data-mce-fragment="1"> </span>Sodium Bicarbonate, Citric Acid, Cocoa Butter, Shea Butter, Epsom Salt, Fragrance, Essential Oil Blend, Filtered Water, Clay or Oxides for Coloring</p>
+<p data-mce-fragment="1">Handmade in the USA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Bathbomb</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Orange Citrus</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4114217697358</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>DB1069</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4114217271374</id>
+    <published>2019-09-18T14:38:26-05:00</published>
+    <updated>2019-09-18T14:38:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/island-pink-bath-bomb-pack-of-14-wholesale"/>
+    <title>Island Pink Bath Bomb Pack of 14 - Wholesale</title>
+    <s:type>Bath Bomb Bubbly</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/BathBombBubbly-20.jpg?v=1627915187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Bath Bomb Bubbly<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1">Dirty Bee  |  Bath Bomb Bubbly</strong></p>
+<p data-mce-fragment="1"><b>Island Pink: </b>Tropical citrus and floral</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dirty Bee</strong>’s<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Bath Bombs</strong><span data-mce-fragment="1"> </span>are the perfect ingredient to a warm relaxing bath.  Before getting in the tub, drop of these big boys in the tub and watch the magic happen as the color fills the water (don’t you worry, it won’t stain that pretty white) to release a relaxing aroma that will surely fill the air to take your troubles away.    </p>
+<p data-mce-fragment="1">We use only the VERY best, 100% American, ingredients.  When it comes to our skin, we don’t take any shortcuts to offer products that you and your entire family will enjoy for years to come. </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Ingredients:</strong><span data-mce-fragment="1"> </span>Sodium Bicarbonate, Citric Acid, Cocoa Butter, Shea Butter, Epsom Salt, Fragrance, Essential Oil Blend, Filtered Water, Clay or Oxides for Coloring</p>
+<p data-mce-fragment="1">Handmade in the USA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Bathbomb</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Island Pink</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4114217271374</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>DB1068</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4114216321102</id>
+    <published>2019-09-18T14:37:18-05:00</published>
+    <updated>2019-09-18T14:37:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/coconut-lime-bath-bomb-pack-of-14-wholesale"/>
+    <title>Coconut Lime Bath Bomb Pack of 14 - Wholesale</title>
+    <s:type>Bath &amp; Body</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/BathBombBubbly-02.jpg?v=1627915344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Bath &amp; Body<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1">Dirty Bee  |  Bath Bomb Bubbly</strong></p>
+<p data-mce-fragment="1"><b>Coconut Lime: </b>Margarita Smell with a Dash of Refreshing Coconut</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dirty Bee</strong>’s<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Bath Bombs</strong><span data-mce-fragment="1"> </span>are the perfect ingredient to a warm relaxing bath.  Before getting in the tub, drop of these big boys in the tub and watch the magic happen as the color fills the water (don’t you worry, it won’t stain that pretty white) to release a relaxing aroma that will surely fill the air to take your troubles away.    </p>
+<p data-mce-fragment="1">We use only the VERY best, 100% American, ingredients.  When it comes to our skin, we don’t take any shortcuts to offer products that you and your entire family will enjoy for years to come. </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Ingredients:</strong><span data-mce-fragment="1"> </span>Sodium Bicarbonate, Citric Acid, Cocoa Butter, Shea Butter, Epsom Salt, Fragrance, Essential Oil Blend, Filtered Water, Clay or Oxides for Coloring</p>
+<p data-mce-fragment="1">Handmade in the USA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Bathbomb</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Coconut Lime</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4114216321102</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>DB1067</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4114215764046</id>
+    <published>2019-09-18T14:36:36-05:00</published>
+    <updated>2019-09-18T14:36:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/citrus-got-real-bath-bomb-pack-of-14-wholesale"/>
+    <title>Citrus Got Real Bath Bomb Pack of 14 - Wholesale</title>
+    <s:type>Bath Bomb Bubbly</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/BathBombBubbly-05.jpg?v=1627915142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Bath Bomb Bubbly<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1">Dirty Bee  |  Bath Bomb Bubbly</strong></p>
+<p data-mce-fragment="1"><b>Citrus Got Real: </b> Satsuma with a burst of Citrus</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dirty Bee</strong>’s<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Bath Bombs</strong><span data-mce-fragment="1"> </span>are the perfect ingredient to a warm relaxing bath.  Before getting in the tub, drop of these big boys in the tub and watch the magic happen as the color fills the water (don’t you worry, it won’t stain that pretty white) to release a relaxing aroma that will surely fill the air to take your troubles away.    </p>
+<p data-mce-fragment="1">We use only the VERY best, 100% American, ingredients.  When it comes to our skin, we don’t take any shortcuts to offer products that you and your entire family will enjoy for years to come. </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Ingredients:</strong><span data-mce-fragment="1"> </span>Sodium Bicarbonate, Citric Acid, Cocoa Butter, Shea Butter, Epsom Salt, Fragrance, Essential Oil Blend, Filtered Water, Clay or Oxides for Coloring</p>
+<p data-mce-fragment="1">Handmade in the USA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Bathbomb</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Citrus Got Real</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4114215764046</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>DB1066</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4114213961806</id>
+    <published>2019-09-18T14:34:18-05:00</published>
+    <updated>2019-09-18T14:34:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/boyfriend-bath-bomb-bubbly-pack-of-14-wholesale"/>
+    <title>Boyfriend Bath Bomb Pack of 14 - Wholesale</title>
+    <s:type>Bath Bomb Bubbly</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/BathBombBubbly-30.jpg?v=1627927328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Bath Bomb Bubbly<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee  |  Bath Bomb Bubbly</strong></p>
+<p><strong>BOYFRIEND - </strong>Unisex blend of woodsy and berry scents</p>
+<p><strong>Dirty Bee</strong>’s<span> </span><strong>Bath Bombs</strong><span> </span>are the perfect ingredient to a warm relaxing bath.  Before getting in the tub, drop of these big boys in the tub and watch the magic happen as the color fills the water (don’t you worry, it won’t stain that pretty white) to release a relaxing aroma that will surely fill the air to take your troubles away.    </p>
+<p>We use only the VERY best, 100% American, ingredients.  When it comes to our skin, we don’t take any shortcuts to offer products that you and your entire family will enjoy for years to come. </p>
+<p><strong>Ingredients:</strong><span> </span>Sodium Bicarbonate, Citric Acid, Cocoa Butter, Shea Butter, Epsom Salt, Fragrance, Essential Oil Blend, Filtered Water, Clay or Oxides for Coloring</p>
+<p>Handmade in the USA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Bathbomb</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Boyfriend</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4114213961806</id>
+      <title>Default Title</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>DB1065</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/3974345097294</id>
+    <published>2019-07-18T16:27:18-05:00</published>
+    <updated>2019-07-18T16:27:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/citrus-got-real-bath-bomb-bubbly"/>
+    <title>Citrus Got Real Bath Bomb Bubbly</title>
+    <s:type>Bath &amp; Body</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/BathBombs-04_29bdc36f-0e56-4c15-8f79-0892e9e318da.jpg?v=1627929978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Bath &amp; Body<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1">Dirty Bee  |  Bath Bomb Bubbly</strong></p>
+<p data-mce-fragment="1"><b>Citrus Got Real - </b>Satsuma with a burst of Citrus</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dirty Bee</strong>’s<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Bath Bombs</strong><span data-mce-fragment="1"> </span>are the perfect ingredient to a warm relaxing bath.  Before getting in the tub, drop of these big boys in the tub and watch the magic happen as the color fills the water (don’t you worry, it won’t stain that pretty white) to release a relaxing aroma that will surely fill the air to take your troubles away.    </p>
+<p data-mce-fragment="1">We use only the VERY best, 100% American, ingredients.  When it comes to our skin, we don’t take any shortcuts to offer products that you and your entire family will enjoy for years to come. </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Ingredients:</strong><span data-mce-fragment="1"> </span>Sodium Bicarbonate, Citric Acid, Cocoa Butter, Shea Butter, Epsom Salt, Fragrance, Essential Oil Blend, Filtered Water, Clay or Oxides for Coloring</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Handmade in the USA</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Bathbomb</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Citrus Got Real</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/3974345097294</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>DB0633</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/3974259212366</id>
+    <published>2019-07-18T15:31:50-05:00</published>
+    <updated>2019-07-18T15:31:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/coconut-lime-bath-bomb-bubbly"/>
+    <title>Coconut Lime Bath Bomb Bubbly</title>
+    <s:type>Bath &amp; Body</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/BathBombs-10.jpg?v=1627930027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Bath &amp; Body<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee  |  Bath Bomb Bubbly</strong></p>
+<p><strong>Coconut Lime:<span> </span></strong>Margarita Smell with a dash of refreshing coconut</p>
+<p><strong>Dirty Bee</strong>’s <strong>Bath Bombs</strong> are the perfect ingredient to a warm relaxing bath.  Before getting in the tub, drop of these big boys in the tub and watch the magic happen as the color fills the water (don’t you worry, it won’t stain that pretty white) to release a relaxing aroma that will surely fill the air to take your troubles away.    </p>
+<p>We use only the VERY best, 100% American, ingredients.  When it comes to our skin, we don’t take any shortcuts to offer products that you and your entire family will enjoy for years to come. </p>
+<p><strong>Ingredients:</strong> Sodium Bicarbonate, Citric Acid, Cocoa Butter, Shea Butter, Epsom Salt, Fragrance, Essential Oil Blend, Filtered Water, Clay or Oxides for Coloring</p>
+<p><strong>Handmade in the USA</strong><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Bathbomb</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Coconut Lime</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/3974259212366</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>DB0632</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/2419482656846</id>
+    <published>2018-10-08T14:37:13-05:00</published>
+    <updated>2018-10-08T14:37:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/mini-turquoise-lace-bath-bomb-bubbly"/>
+    <title>Turquoise &amp; Lace Bath Bomb Bubbly</title>
+    <s:type>Bath &amp; Body</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/image_a8cd0f5d-3d91-4475-96d8-1636a6c4e857.jpg?v=1629389208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Bath &amp; Body<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee  |  Bath Bomb Bubbly</strong></p>
+<p><strong>TURQUOISE &amp; LACE:</strong><span> Fresh linen mixed with Arizona Summer</span></p>
+<p><strong>Dirty Bee</strong>’s<span> </span><strong>Bath Bombs</strong><span> </span>are the perfect ingredient to a warm relaxing bath.  Before getting in the tub, drop of these big boys in the tub and watch the magic happen as the color fills the water (don’t you worry, it won’t stain that pretty white) to release a relaxing aroma that will surely fill the air to take your troubles away.    </p>
+<p>We use only the VERY best, 100% American, ingredients.  When it comes to our skin, we don’t take any shortcuts to offer products that you and your entire family will enjoy for years to come. </p>
+<p><strong>Ingredients:</strong><span> </span>Sodium Bicarbonate, Citric Acid, Cocoa Butter, Shea Butter, Epsom Salt, Fragrance, Essential Oil Blend, Filtered Water, Clay or Oxides for Coloring</p>
+<p><strong>Handmade in the USA</strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Bathbomb</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Turquoise &amp; Lace</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/2419482656846</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>DB0492</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/2398225956942</id>
+    <published>2018-10-08T14:37:13-05:00</published>
+    <updated>2018-10-08T14:37:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/island-pink-bath-bomb-bubbly"/>
+    <title>Island Pink Bath Bomb Bubbly</title>
+    <s:type>Bath &amp; Body</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/BathBombs-09.jpg?v=1627930247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Bath &amp; Body<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong data-mce-fragment="1">Dirty Bee  |  Bath Bomb Bubbly</strong></p>
+<p data-mce-fragment="1"><b>Island Pink- </b>Tropical citrus and floral</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Dirty Bee</strong>’s<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Bath Bombs</strong><span data-mce-fragment="1"> </span>are the perfect ingredient to a warm relaxing bath.  Before getting in the tub, drop of these big boys in the tub and watch the magic happen as the color fills the water (don’t you worry, it won’t stain that pretty white) to release a relaxing aroma that will surely fill the air to take your troubles away.    </p>
+<p data-mce-fragment="1">We use only the VERY best, 100% American, ingredients.  When it comes to our skin, we don’t take any shortcuts to offer products that you and your entire family will enjoy for years to come. </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Ingredients:</strong><span data-mce-fragment="1"> </span>Sodium Bicarbonate, Citric Acid, Cocoa Butter, Shea Butter, Epsom Salt, Fragrance, Essential Oil Blend, Filtered Water, Clay or Oxides for Coloring</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Handmade in the USA</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Bathbomb</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Island Pink</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/2398225956942</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>DB0338</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/2398225825870</id>
+    <published>2018-10-08T14:37:13-05:00</published>
+    <updated>2018-10-08T14:37:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/orange-citrus-bath-bomb-bubbly"/>
+    <title>Orange Citrus Bath Bomb Bubbly</title>
+    <s:type>Bath &amp; Body</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/BathBombs-05_4ee60e62-70ec-47be-92f8-c09f91350702.jpg?v=1627930468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Bath &amp; Body<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee | Bath Bomb Bubbly</strong></p>
+<p><strong>Orange Citrus:</strong> A combination of orange and grapefruit aromas. </p>
+<p><strong>Dirty Bee</strong>’s <strong>Bath Bombs</strong> are the perfect ingredient to a warm relaxing bath.  Before getting in the tub, drop of these big boys in the tub and watch the magic happen as the color fills the water (don’t you worry, it won’t stain that pretty white) to release a relaxing aroma that will surely fill the air to take your troubles away.    </p>
+<p>We use only the VERY best, 100% American, ingredients.  When it comes to our skin, we don’t take any shortcuts to offer products that you and your entire family will enjoy for years to come. </p>
+<p><strong>Ingredients:</strong> Sodium Bicarbonate, Citric Acid, Cocoa Butter, Shea Butter, Epsom Salt, Fragrance, Essential Oil Blend, Filtered Water, Clay or Oxides for Coloring</p>
+<p><strong>Handmade in the USA</strong><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Bathbomb</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Orange Citrus</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/2398225825870</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>DB0337</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/2398224678990</id>
+    <published>2018-10-08T14:37:13-05:00</published>
+    <updated>2018-10-08T14:37:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/boyfriend-bath-bomb-bubbly"/>
+    <title>Boyfriend Bath Bomb Bubbly</title>
+    <s:type>Bath Bomb Bubbly</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/BathBombs-03.jpg?v=1627929896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Bath Bomb Bubbly<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee  |  Bath Bomb Bubbly</strong></p>
+<p><strong>BOYFRIEND - </strong>Unisex blend of woodsy and berry scents</p>
+<p><strong>Dirty Bee</strong>’s <strong>Bath Bombs</strong> are the perfect ingredient to a warm relaxing bath.  Before getting in the tub, drop of these big boys in the tub and watch the magic happen as the color fills the water (don’t you worry, it won’t stain that pretty white) to release a relaxing aroma that will surely fill the air to take your troubles away.    </p>
+<p>We use only the VERY best, 100% American, ingredients.  When it comes to our skin, we don’t take any shortcuts to offer products that you and your entire family will enjoy for years to come. </p>
+<p><strong>Ingredients:</strong> Sodium Bicarbonate, Citric Acid, Cocoa Butter, Shea Butter, Epsom Salt, Fragrance, Essential Oil Blend, Filtered Water, Clay or Oxides for Coloring</p>
+<p><strong>Handmade in the USA</strong><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Bathbomb</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Boyfriend</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/2398224678990</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>DB0336</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.dirtybeeshop.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.dirtybeeshop.com/collections/hand-sanitizer.atom"/>
+  <title>DIRTY BEE</title>
+  <updated>2020-07-02T19:59:27-05:00</updated>
+  <author>
+    <name>DIRTY BEE</name>
+  </author>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4772612374606</id>
+    <published>2020-07-02T19:59:27-05:00</published>
+    <updated>2020-07-02T19:59:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/montecito-hand-sanitizer-spray-4oz"/>
+    <title>Montecito Hand Sanitizer Spray | 4oz</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/image_c218c2bc-4cc3-46ec-bd1d-19051dea8234.jpg?v=1600702305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>60% Alcohol Base with Hydrating Properties</p>
+<p> Active Ingredients: Ethyl Alcohol 60%</p>
+<p>Inactive Ingredients: Water, Essential Oil, Hyaluronic Acid, Hydrogen Peroxide, Glycerin</p>
+<p><strong>Note: Essentails Oils include, Tee Tree, Lavendar, and Lemon</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Hand Sanitizer</s:tag>
+    <s:tag>Montecito</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4772612374606</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>DB1542A</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4719114027086</id>
+    <published>2020-05-28T08:17:02-05:00</published>
+    <updated>2020-05-28T08:17:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/scentless-hand-sanitizer-gel-2oz"/>
+    <title>Scentless Hand Sanitizer Gel | 2oz</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/154349165_3055204231429988_460648378238544522_n_2.jpg?v=1614633157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>60% Alcohol Base with Hydrating Properties</p>
+<p> Active Ingredients: Ethyl Alcohol 60%</p>
+<p>Inactive Ingredients: Water, Essential Oil, Hyaluronic Acid, Hydrogen Peroxide, Glycerin</p>
+<p><strong>Note: Essentails Oils include, Tee Tree, Lavendar, and Lemon</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Hand Sanitizer</s:tag>
+    <s:tag>Scentless</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4719114027086</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>DB1464A</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4717714833486</id>
+    <published>2020-05-27T14:44:04-05:00</published>
+    <updated>2020-05-27T14:44:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/turquoise-lace-hand-sanitizer-spray-1oz"/>
+    <title>Turquoise &amp; Lace Hand Sanitizer Spray | 1oz</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/image_c3a6f0b6-4835-4482-8006-576a5ea7f08a.jpg?v=1600701563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>60% Alcohol Base with Hydrating Properties</p>
+<p> Active Ingredients: Ethyl Alcohol 60%</p>
+<p>Inactive Ingredients: Water, Essential Oil, Hyaluronic Acid, Hydrogen Peroxide, Glycerin</p>
+<p><strong>Note: Essentails Oils include, Tee Tree, Lavendar, and Lemon</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Hand Sanitizer</s:tag>
+    <s:tag>Turquoise &amp; Lace</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4717714833486</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>DB1459A</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4717710901326</id>
+    <published>2020-05-27T14:41:43-05:00</published>
+    <updated>2020-05-27T14:41:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/deep-sleep-hand-sanitizer-spray-1oz"/>
+    <title>Deep Sleep Hand Sanitizer Spray | 1oz</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/153772074_260644315636278_4927226745392232424_n.jpg?v=1614633691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>60% Alcohol Base with Hydrating Properties</p>
+<p> Active Ingredients: Ethyl Alcohol 60%</p>
+<p>Inactive Ingredients: Water, Essential Oil, Hyaluronic Acid, Hydrogen Peroxide, Glycerin</p>
+<p><strong>Note: Essentails Oils include, Tee Tree, Lavendar, and Lemon</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Deep Sleep</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Hand Sanitizer</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4717710901326</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>DB1457A</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4717710311502</id>
+    <published>2020-05-27T14:41:42-05:00</published>
+    <updated>2020-05-27T14:41:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/coconut-lime-hand-sanitizer-spray-1oz"/>
+    <title>Coconut Lime Hand Sanitizer Spray | 1oz</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/154676086_873152513524365_4858216648387735664_n.jpg?v=1614633419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>60% Alcohol Base with Hydrating Properties</p>
+<p> Active Ingredients: Ethyl Alcohol 60%</p>
+<p>Inactive Ingredients: Water, Essential Oil, Hyaluronic Acid, Hydrogen Peroxide, Glycerin</p>
+<p><strong>Note: Essentails Oils include, Tee Tree, Lavendar, and Lemon</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Coconut Lime</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Hand Sanitizer</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4717710311502</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.99</s:price>
+      <s:sku>DB1456A</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4717709688910</id>
+    <published>2020-05-27T14:41:33-05:00</published>
+    <updated>2020-05-27T14:41:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/coconut-lime-hand-sanitizer-spray-2oz"/>
+    <title>Coconut Lime Hand Sanitizer Spray | 2oz</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/154676086_873152513524365_4858216648387735664_n_2.jpg?v=1620144340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>60% Alcohol Base with Hydrating Properties</p>
+<p> Active Ingredients: Ethyl Alcohol 60%</p>
+<p>Inactive Ingredients: Water, Essential Oil, Hyaluronic Acid, Hydrogen Peroxide, Glycerin</p>
+<p><strong>Note: Essentails Oils include, Tee Tree, Lavendar, and Lemon</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Coconut Lime</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Hand Sanitizer</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4717709688910</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>DB1455A</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4717709066318</id>
+    <published>2020-05-27T14:41:30-05:00</published>
+    <updated>2020-05-27T14:41:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/deep-sleep-hand-sanitizer-spray-2oz"/>
+    <title>Deep Sleep Hand Sanitizer Spray | 2oz</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/image_ad54182e-fd2c-40ca-8350-1c5ae7272c8d.jpg?v=1600702888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>60% Alcohol Base with Hydrating Properties</p>
+<p> Active Ingredients: Ethyl Alcohol 60%</p>
+<p>Inactive Ingredients: Water, Essential Oil, Hyaluronic Acid, Hydrogen Peroxide, Glycerin</p>
+<p><strong>Note: Essentails Oils include, Tee Tree, Lavendar, and Lemon</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Deep Sleep</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Hand Sanitizer</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4717709066318</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>DB1454A</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4717707165774</id>
+    <published>2020-05-27T14:41:20-05:00</published>
+    <updated>2020-05-27T14:41:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/turquoise-lace-hand-sanitizer-spray-2oz"/>
+    <title>Turquoise &amp; Lace Hand Sanitizer Spray | 2oz</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/image_2f237cae-a1c8-4966-a7d9-5e782cbe462f.jpg?v=1600703053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>60% Alcohol Base with Hydrating Properties</p>
+<p> Active Ingredients: Ethyl Alcohol 60%</p>
+<p>Inactive Ingredients: Water, Essential Oil, Hyaluronic Acid, Hydrogen Peroxide, Glycerin</p>
+<p><strong>Note: Essentails Oils include, Tee Tree, Lavendar, and Lemon</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Hand Sanitizer</s:tag>
+    <s:tag>Turquoise &amp; Lace</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4717707165774</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>DB1452A</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4613080121422</id>
+    <published>2020-05-01T13:36:37-05:00</published>
+    <updated>2020-05-01T13:36:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/turquoise-lace-hand-sanitizer-spray-4oz"/>
+    <title>Turquoise &amp; Lace Hand Sanitizer Spray | 4oz</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/image_6da747f8-96cd-43b0-92b4-5c095abdfcae.jpg?v=1600702075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>60% Alcohol Base with Hydrating Properties</p>
+<p> Active Ingredients: Ethyl Alcohol 60%</p>
+<p>Inactive Ingredients: Water, Essential Oil, Hyaluronic Acid, Hydrogen Peroxide, Glycerin</p>
+<p><strong>Note: Essentails Oils include, Tee Tree, Lavendar, and Lemon</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Hand Sanitizer</s:tag>
+    <s:tag>Turquoise &amp; Lace</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4613080121422</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>DB7869590</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4589987463246</id>
+    <published>2020-05-01T13:35:51-05:00</published>
+    <updated>2020-05-01T13:35:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/preorder-4-oz-hand-sanitizer-ships-3-27"/>
+    <title>Deep Sleep Hand Sanitizer Spray | 4oz</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/153352286_2808994759316291_5650142874629234374_n_1.jpg?v=1614632760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>60% Alcohol Base with Hydrating Properties</p>
+<p> Active Ingredients: Ethyl Alcohol 60%</p>
+<p>Inactive Ingredients: Water, Essential Oil, Hyaluronic Acid, Hydrogen Peroxide, Glycerin</p>
+<p><strong>Note: Essentails Oils include, Tee Tree, Lavendar, and Lemon</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Deep Sleep</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Hand Sanitizer</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4589987463246</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>DB7869586</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4613079498830</id>
+    <published>2020-05-01T12:58:27-05:00</published>
+    <updated>2020-05-01T12:58:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/coco-lime-hand-sanitizer-spray-4oz"/>
+    <title>Coconut Lime Hand Sanitizer Spray | 4oz</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/153114017_769719320610029_2209754236096376328_n.jpg?v=1614633586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>60% Alcohol Base with Hydrating Properties</p>
+<p> Active Ingredients: Ethyl Alcohol 60%</p>
+<p>Inactive Ingredients: Water, Essential Oil, Hyaluronic Acid, Hydrogen Peroxide, Glycerin</p>
+<p><strong>Note: Essentails Oils include, Tee Tree, Lavendar, and Lemon</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Coconut Lime</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Hand Sanitizer</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4613079498830</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>DB7869584</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4640974864462</id>
+    <published>2020-05-01T12:44:06-05:00</published>
+    <updated>2020-05-01T12:44:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/island-pink-hand-sanitizer-gel-1oz"/>
+    <title>Island Pink Hand Sanitizer Gel | 1oz Pour Out</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/94977350_174218573825037_1302612384866631680_n.jpg?v=1588355067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>60% Alcohol Base with Hydrating Properties</p>
+<p> Active Ingredients: Ethyl Alcohol 60%</p>
+<p>Inactive Ingredients: Water, Essential Oil, Hyaluronic Acid, Hydrogen Peroxide, Glycerin</p>
+<p><strong>Note: Essentails Oils include, Tee Tree, Lavendar, and Lemon</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Hand Sanitizer</s:tag>
+    <s:tag>Island Pink</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4640974864462</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.99</s:price>
+      <s:sku>DB78695825</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4617059532878</id>
+    <published>2020-05-01T12:34:04-05:00</published>
+    <updated>2020-05-01T12:34:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/coco-lime-hand-sanitizer-gel-2oz"/>
+    <title>Coconut Lime Hand Sanitizer Gel | 2oz</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/154770129_876187686498791_5081830068883050069_n.jpg?v=1614633205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>60% Alcohol Base with Hydrating Properties</p>
+<p> Active Ingredients: Ethyl Alcohol 60%</p>
+<p>Inactive Ingredients: Water, Essential Oil, Hyaluronic Acid, Hydrogen Peroxide, Glycerin</p>
+<p><strong>Note: Essentails Oils include, Tee Tree, Lavendar, and Lemon</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Coconut Lime</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Hand Sanitizer</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4617059532878</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>DB7869583</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4617052061774</id>
+    <published>2020-05-01T12:34:04-05:00</published>
+    <updated>2020-05-01T12:34:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/island-pink-hand-sanitizer-gel-2oz"/>
+    <title>Island Pink Hand Sanitizer Gel | 2oz</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/95401278_1139914669712256_5821787500682674176_n.jpg?v=1588354599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>60% Alcohol Base with Hydrating Properties</p>
+<p> Active Ingredients: Ethyl Alcohol 60%</p>
+<p>Inactive Ingredients: Water, Essential Oil, Hyaluronic Acid, Hydrogen Peroxide, Glycerin</p>
+<p><strong>Note: Essentails Oils include, Tee Tree, Lavendar, and Lemon</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Hand Sanitizer</s:tag>
+    <s:tag>Island Pink</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4617052061774</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>DB7869587</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4617059893326</id>
+    <published>2020-05-01T12:34:02-05:00</published>
+    <updated>2020-05-01T12:34:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/turquoise-lace-hand-sanitizer-gel-2oz"/>
+    <title>Turquoise &amp; Lace Hand Sanitizer Gel | 2oz</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/95328358_229032101880420_4093261814870048768_n.jpg?v=1588354595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>60% Alcohol Base with Hydrating Properties</p>
+<p> Active Ingredients: Ethyl Alcohol 60%</p>
+<p>Inactive Ingredients: Water, Essential Oil, Hyaluronic Acid, Hydrogen Peroxide, Glycerin</p>
+<p><strong>Note: Essentails Oils include, Tee Tree, Lavendar, and Lemon</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Hand Sanitizer</s:tag>
+    <s:tag>Turquoise &amp; Lace</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4617059893326</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>DB7869589</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4617060089934</id>
+    <published>2020-05-01T12:33:58-05:00</published>
+    <updated>2020-05-01T12:33:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/deep-sleep-hand-sanitizer-gel-2oz"/>
+    <title>Deep Sleep Hand Sanitizer Gel | 2oz</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/152680242_128867329066424_4607176011543492782_n.jpg?v=1614633637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>60% Alcohol Base with Hydrating Properties</p>
+<p> </p>
+<p>Active Ingredients: Ethyl Alcohol 60%<br><br>Inactive Ingredients: Water, Essential Oil, Hyaluronic Acid, Hydrogen Peroxide, Glycerin</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Deep Sleep</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Hand Sanitizer</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4617060089934</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>DB7869585</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+</feed>

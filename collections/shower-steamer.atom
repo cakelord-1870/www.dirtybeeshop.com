@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.dirtybeeshop.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.dirtybeeshop.com/collections/shower-steamer.atom"/>
+  <title>DIRTY BEE</title>
+  <updated>2021-04-08T11:33:42-05:00</updated>
+  <author>
+    <name>DIRTY BEE</name>
+  </author>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6568891252814</id>
+    <published>2021-04-08T11:33:42-05:00</published>
+    <updated>2021-04-08T11:33:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/pineapple-mango-shower-steamer"/>
+    <title>Pineapple Mango Shower Steamer</title>
+    <s:type>Shower Steamer</s:type>
+    <s:vendor>DIRTY BEE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/ShowerSteamers-12.jpg?v=1627917195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIRTY BEE<br>
+        <strong>Type: </strong>Shower Steamer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These shower steamers are packed with powerful aromas that will fill the air in your shower as you relax and breath in the amazing aroma!  </p>
+<p>You will get multiple uses from these big shower steamers, just as long as you let them dry out between uses.</p>
+<p> </p>
+<p>Ingredients: Sodium Bicarbonate, Citric Acid, Fragrance, Water, Yellow 5 Lake, Blue 5 Lake</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All-Natural</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Pineapple Mango</s:tag>
+    <s:tag>Shower Steamer</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6568891252814</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>DB2211A</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6568891711566</id>
+    <published>2021-04-08T11:33:23-05:00</published>
+    <updated>2021-04-08T11:33:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/coconut-lime-shower-steamer"/>
+    <title>Coconut Lime Shower Steamer</title>
+    <s:type>Shower Steamer</s:type>
+    <s:vendor>DIRTY BEE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/ShowerSteamers-04.jpg?v=1627917175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIRTY BEE<br>
+        <strong>Type: </strong>Shower Steamer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These shower steamers are packed with powerful aromas that will fill the air in your shower as you relax and breath in the amazing aroma!  </p>
+<p>You will get multiple uses from these big shower steamers, just as long as you let them dry out between uses.</p>
+<p> </p>
+<p>Ingredients: Sodium Bicarbonate, Citric Acid, Fragrance, Water, Yellow 5 Lake, Blue 5 Lake</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All-Natural</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Coconut Lime</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Shower Steamer</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6568891711566</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>DB2212A</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4886744105038</id>
+    <published>2021-01-12T08:06:00-06:00</published>
+    <updated>2021-01-12T08:06:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/lemongrass-shower-steamer"/>
+    <title>Lemongrass Shower Steamer</title>
+    <s:type>Shower Steamer</s:type>
+    <s:vendor>DIRTY BEE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/ShowerSteamers-08.jpg?v=1627917105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIRTY BEE<br>
+        <strong>Type: </strong>Shower Steamer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These shower steamers are packed with powerful aromas that will fill the air in your shower as you relax and breath in the amazing aroma!  </p>
+<p>You will get multiple uses from these big shower steamers, just as long as you let them dry out between uses.</p>
+<p> </p>
+<p>Ingredients: Sodium Bicarbonate, Citric Acid, Fragrance, Water, Yellow 5 Lake, Blue 5 Lake</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All-Natural</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Lemongrass</s:tag>
+    <s:tag>Shower Steamer</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4886744105038</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>DB1892A</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4886743580750</id>
+    <published>2020-11-30T12:18:32-06:00</published>
+    <updated>2020-11-30T12:18:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/peppermint-shower-steamer"/>
+    <title>Peppermint Shower Steamer</title>
+    <s:type>Shower Steamer</s:type>
+    <s:vendor>DIRTY BEE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/ShowerSteamers-16_de43d08b-5864-4202-9861-1390ba0e2a67.jpg?v=1628701596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIRTY BEE<br>
+        <strong>Type: </strong>Shower Steamer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These shower steamers are packed with powerful aromas that will fill the air in your shower as you relax and breath in the amazing aroma!  </p>
+<p>You will get multiple uses from these big shower steamers, just as long as you let them dry out between uses.</p>
+<p> </p>
+<p>Ingredients: Sodium Bicarbonate, Citric Acid, Fragrance, Water, Yellow 5 Lake, Blue 5 Lake</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All-Natural</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Peppermint</s:tag>
+    <s:tag>Shower Steamer</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4886743580750</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>DB1891A</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4886743416910</id>
+    <published>2020-11-30T12:18:19-06:00</published>
+    <updated>2020-11-30T12:18:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/bourbon-spice-shower-steamer"/>
+    <title>Bourbon Spice Shower Steamer</title>
+    <s:type>Shower Steamer</s:type>
+    <s:vendor>DIRTY BEE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/ShowerSteamers-20.jpg?v=1627917172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIRTY BEE<br>
+        <strong>Type: </strong>Shower Steamer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These shower steamers are packed with powerful aromas that will fill the air in your shower as you relax and breath in the amazing aroma!  </p>
+<p>You will get multiple uses from these big shower steamers, just as long as you let them dry out between uses.</p>
+<p> </p>
+<p>Ingredients: Sodium Bicarbonate, Citric Acid, Fragrance, Water, Yellow 5 Lake, Blue 5 Lake</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All-Natural</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Bourbon Spice</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Shower Steamer</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4886743416910</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>DB1890A</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4782557593678</id>
+    <published>2020-07-21T13:25:32-05:00</published>
+    <updated>2020-07-21T13:25:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/wild-leopard-shower-steamer"/>
+    <title>Wild Leopard Shower Steamer</title>
+    <s:type>Shower Steamer</s:type>
+    <s:vendor>DIRTY BEE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/ShowerSteamers-14.jpg?v=1627917201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIRTY BEE<br>
+        <strong>Type: </strong>Shower Steamer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These shower steamers are packed with powerful aromas that will fill the air in your shower as you relax and breath in the amazing aroma!  </p>
+<p>You will get multiple uses from these big shower steamers, just as long as you let them dry out between uses.</p>
+<p> </p>
+<p>Ingredients: Sodium Bicarbonate, Citric Acid, Fragrance, Water, Yellow 5 Lake, Blue 5 Lake</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All-Natural</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Shower Steamer</s:tag>
+    <s:tag>Wild Leopard</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4782557593678</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>DB1577A</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4439930568782</id>
+    <published>2019-12-12T19:54:40-06:00</published>
+    <updated>2019-12-12T19:54:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/menthol-shower-steamer"/>
+    <title>Menthol Shower Steamer</title>
+    <s:type>Shower Steamer</s:type>
+    <s:vendor>DIRTY BEE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/ShowerSteamers-22_c25493aa-ca9d-4e61-a377-44d06343bc7c.jpg?v=1627917191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIRTY BEE<br>
+        <strong>Type: </strong>Shower Steamer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These shower steamers are packed with powerful aromas that will fill the air in your shower as you relax and breath in the amazing aroma!  </p>
+<p>You will get multiple uses from these big shower steamers, just as long as you let them dry out between uses.</p>
+<p> </p>
+<p>Ingredients: Sodium Bicarbonate, Citric Acid, Fragrance, Water, Yellow 5 Lake, Blue 5 Lake</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All-Natural</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Menthol</s:tag>
+    <s:tag>Shower Steamer</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4439930568782</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>DB2000</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/3945820553294</id>
+    <published>2019-07-10T10:08:32-05:00</published>
+    <updated>2019-07-10T10:08:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/lavender-shower-steamer"/>
+    <title>Lavender Shower Steamer</title>
+    <s:type>Shower Steamer</s:type>
+    <s:vendor>DIRTY BEE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/ShowerSteamers-18.jpg?v=1627917186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIRTY BEE<br>
+        <strong>Type: </strong>Shower Steamer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These shower steamers are packed with powerful aromas that will fill the air in your shower as you relax and breath in the amazing aroma!  </p>
+<p>You will get multiple uses from these big shower steamers, just as long as you let them dry out between uses.</p>
+<p> </p>
+<p>Ingredients: Sodium Bicarbonate, Citric Acid, Fragrance, Water, Yellow 5 Lake, Blue 2 Lake</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All-Natural</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Lavender</s:tag>
+    <s:tag>Shower Steamer</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/3945820553294</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>DB0626</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/3542376939598</id>
+    <published>2019-05-03T14:00:47-05:00</published>
+    <updated>2019-05-03T14:00:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/island-pink-shower-steamer"/>
+    <title>Island Pink Shower Steamer</title>
+    <s:type>Shower Steamer</s:type>
+    <s:vendor>DIRTY BEE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/ShowerSteamers-10.jpg?v=1628701214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIRTY BEE<br>
+        <strong>Type: </strong>Shower Steamer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These shower steamers are packed with powerful aromas that will fill the air in your shower as you relax and breath in the amazing aroma!  </p>
+<p>You will get multiple uses from these big shower steamers, just as long as you let them dry out between uses.</p>
+<p> </p>
+<p>Ingredients: Sodium Bicarbonate, Citric Acid, Fragrance, Water, Yellow 5 Lake, Blue 5 Lake</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All-Natural</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Island Pink</s:tag>
+    <s:tag>Shower Steamer</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/3542376939598</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>DB0552</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/3542374318158</id>
+    <published>2019-05-03T13:59:55-05:00</published>
+    <updated>2019-05-03T13:59:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/turquoise-lace-shower-steamer"/>
+    <title>Turquoise &amp; Lace Shower Steamer</title>
+    <s:type>Shower Steamer</s:type>
+    <s:vendor>DIRTY BEE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/ShowerSteamers-06.jpg?v=1628691366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIRTY BEE<br>
+        <strong>Type: </strong>Shower Steamer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These shower steamers are packed with powerful aromas that will fill the air in your shower as you relax and breath in the amazing aroma!  </p>
+<p>You will get multiple uses from these big shower steamers, just as long as you let them dry out between uses.</p>
+<p> </p>
+<p>Ingredients: Sodium Bicarbonate, Citric Acid, Fragrance, Water, Yellow 5 Lake, Blue 5 Lake</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All-Natural</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Shower Steamer</s:tag>
+    <s:tag>Turquoise &amp; Lace</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/3542374318158</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>DB0551</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/3438177615950</id>
+    <published>2019-04-05T21:52:57-05:00</published>
+    <updated>2019-04-05T21:52:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/eucalyptus-shower-steamer"/>
+    <title>Eucalyptus Shower Steamer</title>
+    <s:type>Shower Steamer</s:type>
+    <s:vendor>DIRTY BEE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/ShowerSteamers-02_67a48355-ca39-4f80-98ba-bbc6ac1fec3a.jpg?v=1627917010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DIRTY BEE<br>
+        <strong>Type: </strong>Shower Steamer<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These shower steamers are packed with powerful aromas that will fill the air in your shower as you relax and breath in the amazing aroma!  </p>
+<p>You will get multiple uses from these big shower steamers, just as long as you let them dry out between uses.</p>
+<p> </p>
+<p>Ingredients: Sodium Bicarbonate, Citric Acid, Fragrance, Water, Yellow 5 Lake, Blue 5 Lake</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>All-Natural</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Eucalyptus</s:tag>
+    <s:tag>Shower Steamer</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/3438177615950</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>DB0520</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+</feed>

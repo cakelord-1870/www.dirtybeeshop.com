@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.dirtybeeshop.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.dirtybeeshop.com/collections/sea-salt-scrub.atom"/>
+  <title>DIRTY BEE</title>
+  <updated>2020-07-21T13:39:07-05:00</updated>
+  <author>
+    <name>DIRTY BEE</name>
+  </author>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4767064195150</id>
+    <published>2020-07-21T13:39:07-05:00</published>
+    <updated>2020-07-21T13:39:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/skyfall-sea-salt-scrub"/>
+    <title>Skyfall Sea Salt Scrub</title>
+    <s:type>Sea Salt Scrub</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/SeaSaltScrub-08.jpg?v=1626381603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Sea Salt Scrub<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee  |  Sea Salt Scrub 9oz</strong></p>
+<p><strong>Skyfall: </strong>Blend of cedar and spice</p>
+<p><strong></strong>Made with the best ingredients and Sea Salt to leave skin feeling refreshed, clean, and renewed. Use our amazing sea salt scrub to scrub away dead skin and to invigorate your luscious body!</p>
+<p><strong>I</strong><span><strong>ngredients:</strong> Common Salt, Cottonseed Oil, Shea Butter, Stearic Acid, Cetearyl Alcohol, Ceteareth 20, Beeswax, Fragrance, Color, Vitamin E, Propylene Glycol, Phenoxyethanol, Chlorphenesin, Methylparaben, UV Inhibitor, Blue 1 Lake</span></p>
+<p><strong data-mce-fragment="1">Caution:</strong><span data-mce-fragment="1"> Keep out of reach of children. For External use only. Keep out of eyes, ears, nose &amp; mouth. Discontinue use if irritation occurs. </span><br><strong></strong></p>
+<p><strong>Handmade in the USA</strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Sea Salt Scrub</s:tag>
+    <s:tag>Skyfall</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4767064195150</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>DB1514A</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4767063572558</id>
+    <published>2020-07-02T19:58:26-05:00</published>
+    <updated>2020-07-02T19:58:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/montecito-sea-salt-scrub"/>
+    <title>Montecito Sea Salt Scrub</title>
+    <s:type>Sea Salt Scrub</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/SeaSaltScrub-04.jpg?v=1626381408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Sea Salt Scrub<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee  |  Sea Salt Scrub 9oz</strong></p>
+<p><strong>Montecito: </strong>Blend of Floral, Freesia, and Citrus</p>
+<p><strong></strong>Made with the best ingredients and Sea Salt to leave skin feeling refreshed, clean, and renewed. Use our amazing sea salt scrub to scrub away dead skin and to invigorate your luscious body!</p>
+<p><strong>I</strong><span><strong>ngredients:</strong> Common Salt, Cottonseed Oil, Shea Butter, Stearic Acid, Cetearyl Alcohol, Ceteareth 20, Beeswax, Fragrance, Color, Vitamin E, Propylene Glycol, Phenoxyethanol, Chlorphenesin, Methylparaben, UV Inhibitor, Blue 1 Lake</span></p>
+<p><strong data-mce-fragment="1">Caution:</strong><span data-mce-fragment="1"> Keep out of reach of children. For External use only. Keep out of eyes, ears, nose &amp; mouth. Discontinue use if irritation occurs. </span><br><br><strong>Handmade in the USA</strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Montecito</s:tag>
+    <s:tag>Sea Salt Scrub</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4767063572558</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>DB1513A</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4501146599502</id>
+    <published>2020-06-03T12:05:48-05:00</published>
+    <updated>2020-06-03T12:05:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/oasis-bliss-sea-salt-scrub"/>
+    <title>Oasis Bliss Sea Salt Scrub</title>
+    <s:type>Sea Salt Scrub</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/SeaSaltScrub-20.jpg?v=1626381428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Sea Salt Scrub<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee | Sea Salt Scrub 9 oz </strong></p>
+<p><strong>Oasis Bliss: </strong>Sweet mix of Apricot and Chamomile for a vacation from life vibe</p>
+<p>Made with the best ingredients and Sea Salt to leave skin feeling refreshed, clean, and renewed. Use our amazing sea salt scrub to scrub away dead skin and to invigorate your luscious body!<br></p>
+<p><strong>I</strong><span><strong>ngredients:</strong> Common Salt, Cottonseed Oil, Shea Butter, Stearic Acid, Cetearyl Alcohol, Ceteareth 20, Beeswax, Fragrance, Color, Vitamin E, Propylene Glycol, Phenoxyethanol, Chlorphenesin, Methylparaben, UV Inhibitor, Blue 1 Lake</span></p>
+<p><strong>Caution:</strong><span> Keep out of reach of children. For External use only. Keep out of eyes, ears, nose &amp; mouth. Discontinue use if irritation occurs. </span><br><strong></strong></p>
+<p><strong>Handmade in the USA</strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Oasis Bliss</s:tag>
+    <s:tag>Sea Salt</s:tag>
+    <s:tag>Sea Salt Scrub</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4501146599502</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>DB2005A</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4663987765326</id>
+    <published>2020-05-01T12:04:41-05:00</published>
+    <updated>2020-05-01T12:04:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/waterslide-sea-salt-scrub"/>
+    <title>Waterslide Sea Salt Scrub</title>
+    <s:type>Sea Salt Scrub</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/SeaSaltScrub-18.jpg?v=1626381706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Sea Salt Scrub<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee | Sea Salt Scrub 9 oz</strong> </p>
+<p><strong>Waterslide: </strong>Aquatic Blossoms, Orange &amp; Tangerine</p>
+<p>Made with the best ingredients and Sea Salt to leave skin feeling refreshed, clean, and renewed. Use our amazing sea salt scrub to scrub away dead skin and to invigorate your luscious body!</p>
+<p><strong>I</strong><span><strong>ngredients:</strong> Common Salt, Cottonseed Oil, Shea Butter, Stearic Acid, Cetearyl Alcohol, Ceteareth 20, Beeswax, Fragrance, Color, Vitamin E, Propylene Glycol, Phenoxyethanol, Chlorphenesin, Methylparaben, UV Inhibitor, Blue 1 Lake</span></p>
+<p><strong>Caution:</strong><span> Keep out of reach of children. For External use only. Keep out of eyes, ears, nose &amp; mouth. Discontinue use if irritation occurs. </span><br><strong></strong></p>
+<p><strong>Handmade in the USA</strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Sea Salt</s:tag>
+    <s:tag>Sea Salt Scrub</s:tag>
+    <s:tag>Waterslide</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4663987765326</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>DB1294A</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4483795550286</id>
+    <published>2019-12-30T12:22:00-06:00</published>
+    <updated>2019-12-30T12:22:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/deep-sleep-sea-salt-scrub"/>
+    <title>Deep Sleep Sea Salt Scrub</title>
+    <s:type>Sea Salt Scrub</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/BodyButter-22.jpg?v=1628967443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Sea Salt Scrub<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee | Sea Salt Scrub 9 oz </strong></p>
+<p><strong>Deep Sleep: </strong>Sensual, sweet &amp; floral aromatic Lavender &amp; Vanilla</p>
+<p>Made with the best ingredients and Sea Salt to leave skin feeling refreshed, clean, and renewed. Use our amazing sea salt scrub to scrub away dead skin and to invigorate your luscious body!</p>
+<p><strong>I</strong><span><strong>ngredients:</strong> Common Salt, Cottonseed Oil, Shea Butter, Stearic Acid, Cetearyl Alcohol, Ceteareth 20, Beeswax, Fragrance, Color, Vitamin E, Propylene Glycol, Phenoxyethanol, Chlorphenesin, Methylparaben, UV Inhibitor, Blue 1 Lake</span></p>
+<p><strong>Caution:</strong><span> Keep out of reach of children. For External use only. Keep out of eyes, ears, nose &amp; mouth. Discontinue use if irritation occurs. </span><br><strong></strong></p>
+<p><strong>Handmade in the USA</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boyfriend</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Sea Salt</s:tag>
+    <s:tag>Sea Salt Scrub</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4483795550286</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>DB2002</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/3542459383886</id>
+    <published>2019-05-03T14:54:59-05:00</published>
+    <updated>2019-05-03T14:54:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/pineapple-mango-sea-salt-scrub"/>
+    <title>Pineapple Mango Sea Salt Scrub</title>
+    <s:type>Sea Salt Scrub</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/SeaSaltScrub-22.jpg?v=1626381472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Sea Salt Scrub<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee | Sea Salt Scrub 9 oz </strong></p>
+<p><strong>Pineapple Mango: </strong>Tropical and rich coconut and sweet juicy pineapple</p>
+<p>Made with the best ingredients and Sea Salt to leave skin feeling refreshed, clean, and renewed. Use our amazing sea salt scrub to scrub away dead skin and to invigorate your luscious body!</p>
+<p><strong>I</strong><span><strong>ngredients:</strong> Common Salt, Cottonseed Oil, Shea Butter, Stearic Acid, Cetearyl Alcohol, Ceteareth 20, Beeswax, Fragrance, Color, Vitamin E, Propylene Glycol, Phenoxyethanol, Chlorphenesin, Methylparaben, UV Inhibitor, Blue 1 Lake</span></p>
+<p><strong>Caution:</strong><span> Keep out of reach of children. For External use only. Keep out of eyes, ears, nose &amp; mouth. Discontinue use if irritation occurs. </span><br><strong></strong></p>
+<p><strong>Handmade in the USA</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Pineapple Mango</s:tag>
+    <s:tag>Sea Salt</s:tag>
+    <s:tag>Sea Salt Scrub</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/3542459383886</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>DB0555</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/3542456729678</id>
+    <published>2019-05-03T14:52:53-05:00</published>
+    <updated>2019-05-03T14:52:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/coco-lime-sea-salt-scrub"/>
+    <title>Coconut Lime Sea Salt Scrub</title>
+    <s:type>Sea Salt Scrub</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/SeaSaltScrub-02.jpg?v=1626381344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Sea Salt Scrub<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee | Sea Salt Scrub 9 oz </strong></p>
+<p><strong>Coconut Lime:  </strong>Margarita Smell with a Dash of Refreshing Coconut</p>
+<p>Made with the best ingredients and Sea Salt to leave skin feeling refreshed, clean, and renewed. Use our amazing sea salt scrub to scrub away dead skin and to invigorate your luscious body!</p>
+<p><strong>I</strong><span><strong>ngredients:</strong> Common Salt, Cottonseed Oil, Shea Butter, Stearic Acid, Cetearyl Alcohol, Ceteareth 20, Beeswax, Fragrance, Color, Vitamin E, Propylene Glycol, Phenoxyethanol, Chlorphenesin, Methylparaben, UV Inhibitor, Blue 1 Lake</span></p>
+<p><strong>Caution:</strong><span> Keep out of reach of children. For External use only. Keep out of eyes, ears, nose &amp; mouth. Discontinue use if irritation occurs. </span><br><strong></strong></p>
+<p><strong>Handmade in the USA</strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Coconut Lime</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Sea Salt</s:tag>
+    <s:tag>Sea Salt Scrub</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/3542456729678</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>DB0554</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/2414552481870</id>
+    <published>2018-10-08T14:37:13-05:00</published>
+    <updated>2018-10-08T14:37:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/turquoise-lace-sea-salt-scrub"/>
+    <title>Turquoise &amp; Lace Sea Salt Scrub</title>
+    <s:type>Sea Salt Scrub</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/SeaSaltScrub-14.jpg?v=1626381674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Sea Salt Scrub<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee | Sea Salt Scrub 9 oz </strong></p>
+<p><strong>Turquoise &amp; Lace: </strong>Clean fresh linen mixed with the smell of Arizona Summer</p>
+<p>Made with the best ingredients and Sea Salt to leave skin feeling refreshed, clean, and renewed. Use our amazing sea salt scrub to scrub away dead skin and to invigorate your luscious body!</p>
+<p><strong>I</strong><span><strong>ngredients:</strong> Common Salt, Cottonseed Oil, Shea Butter, Stearic Acid, Cetearyl Alcohol, Ceteareth 20, Beeswax, Fragrance, Color, Vitamin E, Propylene Glycol, Phenoxyethanol, Chlorphenesin, Methylparaben, UV Inhibitor, Blue 1 Lake</span></p>
+<p><strong>Caution:</strong><span> Keep out of reach of children. For External use only. Keep out of eyes, ears, nose &amp; mouth. Discontinue use if irritation occurs. </span><br><strong></strong></p>
+<p><strong>Handmade in the USA</strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Sea Salt</s:tag>
+    <s:tag>Sea Salt Scrub</s:tag>
+    <s:tag>Turquoise &amp; Lace</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/2414552481870</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>DB0489</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/2398234411086</id>
+    <published>2018-10-08T14:37:13-05:00</published>
+    <updated>2018-10-08T14:37:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/sunkisses-sea-salt-scrub"/>
+    <title>Sunkisses Sea Salt Scrub</title>
+    <s:type>Sea Salt Scrub</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/SeaSaltScrub-10.jpg?v=1626381639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Sea Salt Scrub<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee | Sea Salt Scrub 9 oz </strong></p>
+<p><strong>Sunkisses: </strong>Warm coconut with sweet vanilla musk</p>
+<p>Made with the best ingredients and Sea Salt to leave skin feeling refreshed, clean, and renewed. Use our amazing sea salt scrub to scrub away dead skin and to invigorate your luscious body!</p>
+<p><strong>I</strong><span><strong>ngredients:</strong> Common Salt, Cottonseed Oil, Shea Butter, Stearic Acid, Cetearyl Alcohol, Ceteareth 20, Beeswax, Fragrance, Color, Vitamin E, Propylene Glycol, Phenoxyethanol, Chlorphenesin, Methylparaben, UV Inhibitor, Blue 1 Lake</span></p>
+<p><strong>Caution:</strong><span> Keep out of reach of children. For External use only. Keep out of eyes, ears, nose &amp; mouth. Discontinue use if irritation occurs. </span><br><strong></strong></p>
+<p><strong>Handmade in the USA</strong></p>
+<p><br><br><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Sea Salt</s:tag>
+    <s:tag>Sea Salt Scrub</s:tag>
+    <s:tag>Sunkisses</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/2398234411086</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>DB0342</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/2398234247246</id>
+    <published>2018-10-08T14:37:13-05:00</published>
+    <updated>2018-10-08T14:37:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/orange-citrus-sea-salt-scrub"/>
+    <title>Orange Citrus Sea Salt Scrub</title>
+    <s:type>Sea Salt Scrub</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/SeaSaltScrub-24.jpg?v=1626381451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Sea Salt Scrub<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee | Sea Salt Scrub 9 oz </strong></p>
+<p><strong>Orange Citrus: </strong>Grapefruit and orange combo scent</p>
+<p>Made with the best ingredients and Sea Salt to leave skin feeling refreshed, clean, and renewed. Use our amazing sea salt scrub to scrub away dead skin and to invigorate your luscious body!<br></p>
+<p><strong>I</strong><span><strong>ngredients:</strong> Common Salt, Cottonseed Oil, Shea Butter, Stearic Acid, Cetearyl Alcohol, Ceteareth 20, Beeswax, Fragrance, Color, Vitamin E, Propylene Glycol, Phenoxyethanol, Chlorphenesin, Methylparaben, UV Inhibitor, Blue 1 Lake</span></p>
+<p><strong>Caution:</strong><span> Keep out of reach of children. For External use only. Keep out of eyes, ears, nose &amp; mouth. Discontinue use if irritation occurs. </span><br><strong></strong></p>
+<p><strong>Handmade in the USA</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Orange Citrus</s:tag>
+    <s:tag>Sea Salt</s:tag>
+    <s:tag>Sea Salt Scrub</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/2398234247246</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>DB0341</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/2398233067598</id>
+    <published>2018-10-08T14:37:13-05:00</published>
+    <updated>2018-10-08T14:37:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/island-pink-sea-salt-scrub"/>
+    <title>Island Pink Sea Salt Scrub</title>
+    <s:type>Sea Salt Scrub</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/SeaSaltScrub-12.jpg?v=1626381385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Sea Salt Scrub<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee | Sea Salt Scrub 9 oz </strong></p>
+<p><strong>﻿Island Pink: </strong>Tropical citrus and floral</p>
+<p>Made with the best ingredients and Sea Salt to leave skin feeling refreshed, clean, and renewed. Use our amazing sea salt scrub to scrub away dead skin and to invigorate your luscious body!</p>
+<p><strong>I</strong><span><strong>ngredients:</strong> Common Salt, Cottonseed Oil, Shea Butter, Stearic Acid, Cetearyl Alcohol, Ceteareth 20, Beeswax, Fragrance, Color, Vitamin E, Propylene Glycol, Phenoxyethanol, Chlorphenesin, Methylparaben, UV Inhibitor, Blue 1 Lake</span></p>
+<p><strong>Caution:</strong><span> Keep out of reach of children. For External use only. Keep out of eyes, ears, nose &amp; mouth. Discontinue use if irritation occurs. </span><br><strong></strong></p>
+<p><strong>Handmade in the USA</strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Island Pink</s:tag>
+    <s:tag>Sea Salt</s:tag>
+    <s:tag>Sea Salt Scrub</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/2398233067598</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>DB0340</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/2398229856334</id>
+    <published>2018-10-08T14:37:13-05:00</published>
+    <updated>2018-10-08T14:37:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/boyfriend-sea-salt-scrub"/>
+    <title>Boyfriend Sea Salt Scrub</title>
+    <s:type>Sea Salt Scrub</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/SeaSaltScrub-16.jpg?v=1626381326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Sea Salt Scrub<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee  |  Sea Salt Scrub 9oz</strong></p>
+<p><strong>Boyfriend- </strong>Unisex blend of woodsy and berry scents</p>
+<p>Made with the best ingredients and Sea Salt to leave skin feeling refreshed, clean, and renewed. Use our amazing sea salt scrub to scrub away dead skin and to invigorate your luscious body!</p>
+<p><strong>I</strong><span><strong>ngredients:</strong> Common Salt, Cottonseed Oil, Shea Butter, Stearic Acid, Cetearyl Alcohol, Ceteareth 20, Beeswax, Fragrance, Color, Vitamin E, Propylene Glycol, Phenoxyethanol, Chlorphenesin, Methylparaben, UV Inhibitor, Ext Violet 2, Green 5</span></p>
+<p><strong data-mce-fragment="1">Caution:</strong><span data-mce-fragment="1"> Keep out of reach of children. For External use only. Keep out of eyes, ears, nose &amp; mouth. Discontinue use if irritation occurs. </span><br><br><strong>Handmade in the USA</strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boyfriend</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Sea Salt Scrub</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/2398229856334</id>
+      <title>Default Title</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>DB0339</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

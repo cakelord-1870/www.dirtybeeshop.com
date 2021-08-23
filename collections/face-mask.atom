@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.dirtybeeshop.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.dirtybeeshop.com/collections/face-mask.atom"/>
+  <title>DIRTY BEE</title>
+  <updated>2019-09-18T13:00:57-05:00</updated>
+  <author>
+    <name>DIRTY BEE</name>
+  </author>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4109523353678</id>
+    <published>2019-09-18T13:00:57-05:00</published>
+    <updated>2019-09-18T13:00:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/tea-tree-alfalfa-face-mask"/>
+    <title>Tea Tree Alfalfa Face Mask</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/FaceMask-03.jpg?v=1626141742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dirty Bee Clay Face Mask is a must have for any skin care lover!  Each mask has a tingling factor that will leave your face feeling perfectly clean and releases harmful oils and chemicals from your skin that will ultimately give you a glowing natural look.  </p>
+<p>Tea tree is great for soothing painful skin and reduce inflammation.  Tea Tree is great for treating acne, itchy skin and oily skin.  Alfalfa powder is packed with vitamins and minerals.</p>
+<p><strong>Tea Tree Alfalfa</strong>: Kaolin Clay, Water, Alfalfa Powder, Tea Tree Essential Oil, Vitamin E, Polysorbate 80</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Face Mask</s:tag>
+    <s:tag>Tea Tree</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4109523353678</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>DB0689</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4109519061070</id>
+    <published>2019-09-18T13:00:55-05:00</published>
+    <updated>2019-09-18T13:00:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/minty-charcoal-face-mask"/>
+    <title>Minty Charcoal Face Mask</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/FaceMask-11.jpg?v=1626141721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dirty Bee Clay Face Mask is a must have for any skin care lover!  Each mask has a tingling factor that will leave your face feeling perfectly clean and releases harmful oils and chemicals from your skin that will ultimately give you a glowing natural look.  </p>
+<p>Peppermint essential oil is great for acne as if can facilitate oil secretion and also provides a cooling and soothing to the skin, while charcoal will exfoliate and reduce oiliness of skin.</p>
+<p><strong>Minty Charcoal</strong>: Kaolin Clay, Water, Activated Bamboo Charcoal, Peppermint Essential Oil, Vitamin E, Polysorbate 80</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Face Mask</s:tag>
+    <s:tag>Minty Charcoal</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4109519061070</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>DB0686</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4109522239566</id>
+    <published>2019-09-18T13:00:53-05:00</published>
+    <updated>2019-09-18T13:00:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/lavender-indigo-face-mask"/>
+    <title>Lavender Indigo Face Mask</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/FaceMask-09.jpg?v=1626141701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Dirty Bee Clay Face Mask is a must have for any skin care lover!  Each mask has a tingling factor that will leave your face feeling perfectly clean and releas</span><span>es</span><span> harmful oils and chemicals from your skin that will ultimately give you a glowing natural look.  </span></p>
+<p>Indigo has been said to have restorative and smoothing properties, while lavender is an oil known to help reduce stress and reduces redness and blotchy skin.</p>
+<p><strong>Lavender Indigo</strong>: Kaolin Clay, Water, Indigo Powder, Lavandin Essential Oil, Vitamin E, Polysorbate 80</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Face Mask</s:tag>
+    <s:tag>Minty Charcoal</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4109522239566</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>DB0688</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4109519880270</id>
+    <published>2019-09-18T13:00:53-05:00</published>
+    <updated>2019-09-18T13:00:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/eva-rose-face-mask"/>
+    <title>Eva Rose Face Mask</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/FaceMask-07.jpg?v=1626141664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Dirty Bee Clay Face Mask is a must have for any skin care lover!  Each mask has a tingling factor that will leave your face feeling perfectly clean and releas</span><span>es</span><span> harmful oils and chemicals from your skin that will ultimately give you a glowing natural look.  </span></p>
+<p>Rose Oil is a great emollient for moisturizing skin and has anti-inflammatory properties. Beet powder helps brighten skin.</p>
+<p><b>Eva Rose</b>: Kaolin Clay, Water, Beet Powder, Rose Geranium Oil, Vitamin E, Polysorbate 80</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Face Mask</s:tag>
+    <s:tag>Minty Charcoal</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4109519880270</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>DB0687</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4109525778510</id>
+    <published>2019-09-18T13:00:51-05:00</published>
+    <updated>2019-09-18T13:00:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/grapefruit-calamine-face-mask"/>
+    <title>Grapefruit Calamine Face Mask</title>
+    <s:type>Face Mask</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/FaceMask-05.jpg?v=1626141680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Face Mask<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Dirty Bee Clay Face Mask is a must have for any skin care lover!  Each mask has a tingling factor that will leave your face feeling perfectly clean and releas</span><span>es</span><span> harmful oils and chemicals from your skin that will ultimately give you a glowing natural look.  </span></p>
+<p>Grapefruit oil is refreshing and provides antioxidants that are great for oily skin.  Calamine is well known to relieve itchiness and treat minor skin conditions such as bug bites and hives.  </p>
+<p><strong>Grapefruit Calamine</strong>: Kaolin Clay, Water, Calamine Powder, White Grapefruit Essential Oil, Vitamin E, Polysorbate 80</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Face Mask</s:tag>
+    <s:tag>Minty Charcoal</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4109525778510</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>DB0690</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+</feed>

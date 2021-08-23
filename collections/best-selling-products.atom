@@ -1,0 +1,1322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.dirtybeeshop.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.dirtybeeshop.com/collections/best-selling-products.atom"/>
+  <title>DIRTY BEE</title>
+  <updated>2021-08-20T19:42:32-05:00</updated>
+  <author>
+    <name>DIRTY BEE</name>
+  </author>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6635852988494</id>
+    <published>2021-08-20T19:42:32-05:00</published>
+    <updated>2021-08-20T19:42:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/new-boujie-bee-babe-weekender-duffle-bag"/>
+    <title>New!!! Boujie Bee &quot;BABE &quot; Weekender Duffle Bag</title>
+    <s:type>Weekender</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/239341757_3001155636827784_516334049536518527_n_1.jpg?v=1629506762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Weekender<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Boujie Bee | Weekender Duffle Bag</strong></p>
+<p><strong>Heading for out for a Girls Trip?!! These bags can hold alot of stuff and they'll be what everyone is talking about</strong></p>
+<ul>
+<li><span style="font-size: 1.4em;">Clear overlay</span></li>
+<li><span style="font-size: 1.4em;">Zipper closure</span></li>
+<li><span style="font-size: 1.4em;">Inside pocket</span></li>
+<li><span style="font-size: 19.6px;">Arm Straps</span></li>
+<li><span style="font-size: 1.4em;">Lined</span></li>
+<li><span style="font-size: 19.6px;">Measurements: 17"x10"</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>babe</s:tag>
+    <s:tag>Boujie Bee</s:tag>
+    <s:tag>dropship</s:tag>
+    <s:tag>duffle bag</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>travel</s:tag>
+    <s:tag>weekender</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6635852988494</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku>DB5709A</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6635837259854</id>
+    <published>2021-08-20T19:42:31-05:00</published>
+    <updated>2021-08-20T19:42:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/boujie-bee-weekender-duffle-bag"/>
+    <title>New!!! Boujie Bee &quot;HELL YAH&quot;  Weekender Duffle Bag</title>
+    <s:type>Weekender</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/239337617_3001155710161110_5932334201821287628_n.jpg?v=1629506864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Weekender<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Boujie Bee | Weekender Duffle Bag</strong></p>
+<p><strong>Heading for out for a Girls Trip?!! These bags can hold alot of stuff and they'll be what everyone is talking about</strong></p>
+<ul>
+<li><span style="font-size: 1.4em;">Clear overlay</span></li>
+<li><span style="font-size: 1.4em;">Zipper closure</span></li>
+<li><span style="font-size: 1.4em;">Inside pocket</span></li>
+<li><span style="font-size: 19.6px;">Arm Straps</span></li>
+<li><span style="font-size: 1.4em;">Lined</span></li>
+<li><span style="font-size: 19.6px;">Measurements: 17"x10"</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boujie Bee</s:tag>
+    <s:tag>dropship</s:tag>
+    <s:tag>duffle bag</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>Hell YAH</s:tag>
+    <s:tag>travel</s:tag>
+    <s:tag>weekender</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6635837259854</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku>DB5707A</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6635836932174</id>
+    <published>2021-08-20T19:42:31-05:00</published>
+    <updated>2021-08-20T19:42:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/boujie-bee-hbic-weekender-duffle-bag"/>
+    <title>New!!! Boujie Bee &quot;HBIC&quot; Weekender Duffle Bag</title>
+    <s:type>Weekender</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/179517513_217161383145597_1244026779346372577_n.jpg?v=1629506845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Weekender<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Boujie Bee | Weekender Duffle Bag</strong></p>
+<p><strong>Heading for out for a Girls Trip?!! These bags can hold alot of stuff and they'll be what everyone is talking about</strong></p>
+<ul>
+<li><span style="font-size: 1.4em;">Clear overlay</span></li>
+<li><span style="font-size: 1.4em;">Zipper closure</span></li>
+<li><span style="font-size: 1.4em;">Inside pocket</span></li>
+<li><span style="font-size: 19.6px;">Arm Straps</span></li>
+<li><span style="font-size: 1.4em;">Lined</span></li>
+<li><span style="font-size: 19.6px;">Measurements: 17"x10"</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boujie Bee</s:tag>
+    <s:tag>dropship</s:tag>
+    <s:tag>duffle bag</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>HBIC</s:tag>
+    <s:tag>travel</s:tag>
+    <s:tag>weekender</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6635836932174</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku>DB5703A</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6635836670030</id>
+    <published>2021-08-20T19:42:30-05:00</published>
+    <updated>2021-08-20T19:42:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/boujie-bee-ceo-weekender-duffle-bag"/>
+    <title>New!!! Boujie Bee &quot;CEO&quot; Weekender Duffle Bag</title>
+    <s:type>Weekender</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/236523440_3001155730161108_2198174183707333921_n.jpg?v=1629506775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Weekender<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Boujie Bee | Weekender Duffle Bag</strong></p>
+<p><strong>Heading for out for a Girls Trip?!! These bags can hold alot of stuff and they'll be what everyone is talking about</strong></p>
+<ul>
+<li><span style="font-size: 1.4em;">Clear overlay</span></li>
+<li><span style="font-size: 1.4em;">Zipper closure</span></li>
+<li><span style="font-size: 1.4em;">Inside pocket</span></li>
+<li><span style="font-size: 19.6px;">Arm Straps</span></li>
+<li><span style="font-size: 1.4em;">Lined</span></li>
+<li><span style="font-size: 19.6px;">Measurements: 17"x10"</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boujie Bee</s:tag>
+    <s:tag>CEO</s:tag>
+    <s:tag>dropship</s:tag>
+    <s:tag>duffle bag</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>travel</s:tag>
+    <s:tag>weekender</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6635836670030</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku>DB5701A</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6635836604494</id>
+    <published>2021-08-20T19:42:29-05:00</published>
+    <updated>2021-08-20T19:42:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/boujie-bee-nah-weekender-duffle-bag"/>
+    <title>New!!! Boujie Bee &quot;Nah&quot; Weekender Duffle Bag</title>
+    <s:type>Weekender</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/239697699_3001155786827769_3913030082252155161_n.jpg?v=1629506884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Weekender<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Boujie Bee | Weekender Duffle Bag</strong></p>
+<p><strong>Heading for out for a Girls Trip?!! These bags can hold alot of stuff and they'll be what everyone is talking about</strong></p>
+<ul>
+<li><span style="font-size: 1.4em;">Clear overlay</span></li>
+<li><span style="font-size: 1.4em;">Zipper closure</span></li>
+<li><span style="font-size: 1.4em;">Inside pocket</span></li>
+<li><span style="font-size: 19.6px;">Arm Straps</span></li>
+<li><span style="font-size: 1.4em;">Lined</span></li>
+<li><span style="font-size: 19.6px;">Measurements: 17"x10"</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boujie Bee</s:tag>
+    <s:tag>dropship</s:tag>
+    <s:tag>duffle bag</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>nah</s:tag>
+    <s:tag>travel</s:tag>
+    <s:tag>weekender</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6635836604494</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku>DB5699A</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6637817069646</id>
+    <published>2021-08-20T10:35:43-05:00</published>
+    <updated>2021-08-20T10:35:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/boujie-bee-safari-bracelet-keychain-wallet"/>
+    <title>Boujie Bee Safari Bracelet Keychain Wallet</title>
+    <s:type>Handbag</s:type>
+    <s:vendor>Boujie Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/174236961_873727933476945_3504102909063170693_n.jpg?v=1629473756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boujie Bee<br>
+        <strong>Type: </strong>Handbag<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Boujie Bee Bracelet Keychain Wallet</p>
+<p>These fashionable keychain wallets are designed for the "on-the-go" lady looking to make a quick fashionable update to any outfit.  With interior dividers, you'll be able to keep everything in order for your next night out! </p>
+<ul>
+<li>Microfiber Synthetic Leather (Exterior)</li>
+<li>Polyester (Interior)</li>
+<li>Waterproof</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>Boujie Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Keychain</s:tag>
+    <s:tag>Wallet</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6637817069646</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>DB5724A</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6637816905806</id>
+    <published>2021-08-20T10:34:50-05:00</published>
+    <updated>2021-08-20T10:34:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/boujie-bee-royal-kitty-bracelet-keychain-wallet"/>
+    <title>Boujie Bee Royal Kitty Bracelet Keychain Wallet</title>
+    <s:type>Handbag</s:type>
+    <s:vendor>Boujie Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/173624120_888419758369916_5489026804543486562_n.jpg?v=1629473704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boujie Bee<br>
+        <strong>Type: </strong>Handbag<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Boujie Bee Bracelet Keychain Wallet</p>
+<p>These fashionable keychain wallets are designed for the "on-the-go" lady looking to make a quick fashionable update to any outfit.  With interior dividers, you'll be able to keep everything in order for your next night out! </p>
+<ul>
+<li>Microfiber Synthetic Leather (Exterior)</li>
+<li>Polyester (Interior)</li>
+<li>Waterproof</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>Boujie Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Keychain</s:tag>
+    <s:tag>Wallet</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6637816905806</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>DB5721A</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6637816512590</id>
+    <published>2021-08-20T10:32:50-05:00</published>
+    <updated>2021-08-20T10:32:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/boujie-bee-turquoise-cowboy-bracelet-keychain-wallet"/>
+    <title>Boujie Bee Turquoise Cowboy Bracelet Keychain Wallet</title>
+    <s:type>Handbag</s:type>
+    <s:vendor>Boujie Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/173812211_134482555251940_4664706549848806546_n.jpg?v=1629473624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boujie Bee<br>
+        <strong>Type: </strong>Handbag<br>
+        <strong>Price: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Boujie Bee Bracelet Keychain Wallet</p>
+<p>These fashionable keychain wallets are designed for the "on-the-go" lady looking to make a quick fashionable update to any outfit.  With interior dividers, you'll be able to keep everything in order for your next night out! </p>
+<ul>
+<li>Microfiber Synthetic Leather (Exterior)</li>
+<li>Polyester (Interior)</li>
+<li>Waterproof</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>Boujie Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Keychain</s:tag>
+    <s:tag>Wallet</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6637816512590</id>
+      <title>Default Title</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>DB5719A</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6636131844174</id>
+    <published>2021-08-18T22:45:44-05:00</published>
+    <updated>2021-08-18T22:45:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/new-boujie-bee-egg-plant-water-bottle"/>
+    <title>New!!! Boujie Bee Eggplant Water Bottle</title>
+    <s:type>Egg Plant Water Bottle</s:type>
+    <s:vendor>Boujie Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/239632374_794709397871649_810664314956791784_n.jpg?v=1629305378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boujie Bee<br>
+        <strong>Type: </strong>Egg Plant Water Bottle<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Boujie Bee | Eggplant Water Bottle</strong></p>
+<ul>
+<li><strong>Portable</strong></li>
+<li><strong>Leakproof</strong></li>
+<li><b>Theroplastic </b></li>
+<li><b>Sports bottle</b></li>
+<li><b>BPA Free</b></li>
+<li><b>Gift</b></li>
+</ul>
+<b>Made in China<br></b><span style="font-size: 19.6px;"><br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bottle</s:tag>
+    <s:tag>Boujie Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>eggplant</s:tag>
+    <s:tag>gift</s:tag>
+    <s:tag>naughty</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>sports</s:tag>
+    <s:tag>travel</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6636131844174</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>DB5710A</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6636901171278</id>
+    <published>2021-08-18T15:56:27-05:00</published>
+    <updated>2021-08-18T15:56:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/boujie-bee-black-on-the-go-checkered-dupe-bag"/>
+    <title>Boujie Bee Black On the Go Checkered Dupe Bag</title>
+    <s:type>Handbag</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/182260258_2923754424567906_4409174825556594603_n.jpg?v=1629320299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Handbag<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Boujie Bee| Black On the Go Checkered Dupe Bag</strong></p>
+<p><strong> </strong></p>
+<ul>
+<li>High Quality Vegan</li>
+<li>Sturdy handles on the outside</li>
+<li>Key clisp inside</li>
+<li>Liner in the inside</li>
+<li>Zipper and inside pouch</li>
+<li>Inside Straps</li>
+<li>Measures : <span data-mce-fragment="1">14" W x 11" T</span>
+</li>
+<li>Made in China</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>Boujie Bee</s:tag>
+    <s:tag>checkered</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>dupe</s:tag>
+    <s:tag>handbag</s:tag>
+    <s:tag>purse</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6636901171278</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku>DB2242A</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6636900843598</id>
+    <published>2021-08-18T15:55:38-05:00</published>
+    <updated>2021-08-18T15:55:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/boujie-bee-brown-on-the-go-checkered-dupe-bag"/>
+    <title>Boujie Bee Brown On the Go Checkered Dupe Bag</title>
+    <s:type>Handbag</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/182141694_2923754484567900_6498120678665893285_n.jpg?v=1629320405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Handbag<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Boujie Bee | Brown On the Go Checkered Dupe Bag</strong></p>
+<p> </p>
+<ul>
+<li>High Quality Vegan</li>
+<li>Sturdy handles on the outside</li>
+<li>Key clasp inside</li>
+<li>Liner in the inside</li>
+<li>Zipper and inside pouch</li>
+<li>Inside Straps</li>
+<li>Measures : <span data-mce-fragment="1">14" W x 11" T</span>
+</li>
+<li>Made in China</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accessory</s:tag>
+    <s:tag>Boujie Bee</s:tag>
+    <s:tag>checkered</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>dupe</s:tag>
+    <s:tag>handbag</s:tag>
+    <s:tag>purse</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6636900843598</id>
+      <title>Default Title</title>
+      <s:price currency="USD">54.99</s:price>
+      <s:sku>DB2243A</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6636788973646</id>
+    <published>2021-08-18T12:12:08-05:00</published>
+    <updated>2021-08-18T12:12:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/boujie-bee-mexican-floral-laptop-backpack"/>
+    <title>Boujie Bee Mexican Floral Laptop Backpack</title>
+    <s:type>Handbag</s:type>
+    <s:vendor>Boujie Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/125568890_2802498416693508_3370774377711851196_n.jpg?v=1629306857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boujie Bee<br>
+        <strong>Type: </strong>Handbag<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Get on the Trend with these <strong>New Boujie Bee Laptop Backpack</strong>. Packed with lots of room for laptop, books, or anything in between!!</p>
+<ul>
+<li><strong>Backpack and shoulder bag</strong></li>
+<li><strong>Vegan leather exterior with poly fabric lining</strong></li>
+<li><strong>Multi-functional internal pockets</strong></li>
+<li><strong>Silver-tone hardware</strong></li>
+<li><strong>Adjustable backpack straps</strong></li>
+<li><strong>Side zipper</strong></li>
+<li><strong>12”x12.5”x5.5”</strong></li>
+</ul>
+<p><strong>Inside Details:</strong><br><br><strong>Fully lined</strong><br><strong>1 back-wall pocket</strong><br><b>1 front pocket</b><br><br><strong>High-quality vegan leather</strong><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>backpack</s:tag>
+    <s:tag>Boujie Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>laptop</s:tag>
+    <s:tag>mexican floral</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6636788973646</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>DB1873A</s:sku>
+      <s:grams>1089</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6634178314318</id>
+    <published>2021-08-10T14:51:40-05:00</published>
+    <updated>2021-08-10T14:51:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/boujie-bee-leopard-pompom-beanie"/>
+    <title>Boujie Bee Leopard PomPom Beanie</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Boujie Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/131889620_401100941130916_78911601948280042_n.jpg?v=1628625730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boujie Bee<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Boujie Bee | Leopard PomPom Beanie</strong></p>
+<p><span data-mce-fragment="1">Keep covered with a warm and cutesy accessory—this knit beanie featuring a pom-pom embellishment. Match it to your ensemble and top off your look as you step out in chilly weather.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Knit body; cuffed</li>
+<li data-mce-fragment="1">Faux fur pom-pom accent</li>
+<li data-mce-fragment="1">Shell: 50% Polyester</li>
+<li data-mce-fragment="1">Lining: 100% Polyester</li>
+<li data-mce-fragment="1">Spot clean</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beanie</s:tag>
+    <s:tag>Boujie Bee</s:tag>
+    <s:tag>Leopard</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6634178314318</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>DB5696A</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6634071916622</id>
+    <published>2021-08-10T09:27:18-05:00</published>
+    <updated>2021-08-10T09:27:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/boujie-bee-hell-yes-necklace"/>
+    <title>Boujie Bee &quot;Hell Yes&quot; Necklace</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/Necklace-06_1.jpg?v=1628784879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>Boujie Bee | Necklace</strong></p>
+<ul class="clickyboxes options-color" id="clickyboxes-option-color" data-mce-fragment="1">
+<li>Adjustable 16" chain with o ring connector</li>
+<li>Nickle and Lead Free</li>
+<li>Gold and Silver PlatedSilver</li>
+<li>Gold</li>
+</ul>
+<br>
+<ul class="clickyboxes options-color" data-mce-fragment="1"></ul>
+<br style="font-size: 1.4em;"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boujie Bee</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>silver</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6634071916622</id>
+      <title>Silver</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>DB5688A</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6634071916622</id>
+      <title>Gold</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>DB5690A</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6634067558478</id>
+    <published>2021-08-10T09:14:00-05:00</published>
+    <updated>2021-08-10T09:14:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/boujie-bee-nah-necklace"/>
+    <title>Boujie Bee &quot;Nah&quot; Necklace</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/Necklace-03.jpg?v=1628784432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>Boujie Bee | Necklace</strong></p>
+<ul class="clickyboxes options-color" id="clickyboxes-option-color" data-mce-fragment="1">
+<li>Adjustable 16" chain with o ring connector</li>
+<li>Nickle and Lead Free</li>
+<li>Gold and Silver Plated</li>
+<li>Silver</li>
+<li>Gold</li>
+</ul>
+<br>
+<ul class="clickyboxes options-color" data-mce-fragment="1"></ul>
+<br style="font-size: 1.4em;"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boujie Bee</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>silver</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6634067558478</id>
+      <title>Silver</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>DB5684A</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6634067558478</id>
+      <title>Gold</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>DB5685A</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6634066509902</id>
+    <published>2021-08-10T09:11:59-05:00</published>
+    <updated>2021-08-10T09:11:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/boujie-bee-shutup-necklace"/>
+    <title>Boujie Bee &quot;Shutup&quot; Necklace</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/Necklace-09.jpg?v=1628784479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>Boujie Bee | Necklace</strong></p>
+<ul class="clickyboxes options-color" id="clickyboxes-option-color" data-mce-fragment="1">
+<li>Adjustable 16" chain with o ring connector</li>
+<li>Nickle and Lead Free</li>
+<li>Gold and Silver Plated</li>
+<li>Silver</li>
+<li>Gold</li>
+</ul>
+<br>
+<ul class="clickyboxes options-color" data-mce-fragment="1"></ul>
+<br style="font-size: 1.4em;"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boujie Bee</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>silver</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6634066509902</id>
+      <title>Silver</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>DB5682A</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6634066509902</id>
+      <title>Gold</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>DB5683A</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6634066083918</id>
+    <published>2021-08-10T09:11:19-05:00</published>
+    <updated>2021-08-10T09:11:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/boujie-bee-busy-bitch-necklace"/>
+    <title>Boujie Bee &quot;Busy Bitch&quot; Necklace</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/Necklace-10.jpg?v=1628784380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>Boujie Bee | Necklace</strong></p>
+<ul class="clickyboxes options-color" id="clickyboxes-option-color" data-mce-fragment="1">
+<li>Adjustable 16" chain with o ring connector</li>
+<li>Nickle and Lead Free</li>
+<li>Gold and Silver Plated</li>
+<li>Silver</li>
+<li>Gold</li>
+</ul>
+<br>
+<ul class="clickyboxes options-color" data-mce-fragment="1"></ul>
+<br style="font-size: 1.4em;"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boujie Bee</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>silver</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6634066083918</id>
+      <title>Silver</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>DB5677A</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6634066083918</id>
+      <title>Gold</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>DB5679A</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6634065625166</id>
+    <published>2021-08-10T09:10:08-05:00</published>
+    <updated>2021-08-10T09:10:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/boujie-bee-no-regrets-necklace"/>
+    <title>Boujie Bee &quot;No Regrets&quot; Necklace</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/231991014_429757498280527_3981788572030414243_n.jpg?v=1628786508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>Boujie Bee | Necklace</strong></p>
+<ul class="clickyboxes options-color" id="clickyboxes-option-color" data-mce-fragment="1">
+<li>Adjustable 16" chain with o ring connector</li>
+<li>Nickle and Lead Free</li>
+<li>Gold and Silver Plated</li>
+<li>Silver</li>
+<li>Gold</li>
+</ul>
+<br>
+<ul class="clickyboxes options-color" data-mce-fragment="1"></ul>
+<br style="font-size: 1.4em;"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boujie Bee</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>silver</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6634065625166</id>
+      <title>Silver</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>DB5675A</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6634065625166</id>
+      <title>Gold</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>DB5676A</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6634065363022</id>
+    <published>2021-08-10T09:08:59-05:00</published>
+    <updated>2021-08-10T09:08:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/boujie-bee-single-necklace"/>
+    <title>Boujie Bee &quot;Single&quot; Necklace</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/Necklace-18.jpg?v=1628784518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>Boujie Bee | Necklace</strong></p>
+<ul class="clickyboxes options-color" id="clickyboxes-option-color" data-mce-fragment="1">
+<li>Adjustable 16" chain with o ring connector</li>
+<li>Nickle and Lead Free</li>
+<li>Gold and Silver PlatedSilver</li>
+<li>Gold</li>
+</ul>
+<br>
+<ul class="clickyboxes options-color" data-mce-fragment="1"></ul>
+<br style="font-size: 1.4em;"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boujie Bee</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>silver</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6634065363022</id>
+      <title>Silver</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>DB5671A</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6634065363022</id>
+      <title>Gold</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>DB5672A</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6634063953998</id>
+    <published>2021-08-10T09:03:32-05:00</published>
+    <updated>2021-08-10T09:03:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/boujie-bee-ceo-necklace"/>
+    <title>Boujie Bee &quot;CEO&quot; Necklace</title>
+    <s:type>Jewelry</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/Necklace-15.jpg?v=1628784582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Jewelry<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><strong>Boujie Bee | Necklace</strong></p>
+<ul class="clickyboxes options-color" id="clickyboxes-option-color" data-mce-fragment="1">
+<li>Adjustable 16" chain with o ring connector</li>
+<li>Nickle and Lead Free</li>
+<li>Gold and Silver Plated</li>
+<li>Silver</li>
+<li>Gold</li>
+</ul>
+<br>
+<ul class="clickyboxes options-color" data-mce-fragment="1"></ul>
+<br style="font-size: 1.4em;"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boujie Bee</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Jewelry</s:tag>
+    <s:tag>necklace</s:tag>
+    <s:tag>silver</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6634063953998</id>
+      <title>Silver</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>DB5686A</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6634063953998</id>
+      <title>Gold</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>DB5687A</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6633831891022</id>
+    <published>2021-08-09T14:02:03-05:00</published>
+    <updated>2021-08-09T14:02:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/stimlute-shampoo-conditioner-bar-set-with-bar-block"/>
+    <title>Stimulate Shampoo &amp; Conditioner Bar Set with Bar Block</title>
+    <s:type>Hair</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/ConditionerBar-09.jpg?v=1628535772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Hair<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee Body |  Shampoo &amp; Conditioner Bars Set with Bar Block</strong></p>
+<p><strong>Stimulate : <span>Invigorating minty scent</span></strong></p>
+<p><strong></strong><strong><span></span></strong>Our Shampoo &amp; <span>Conditioner </span>bars are super concentrated and contain only luxurious, salon quality ingredients. Convenient, compact, and environmentally friendly, each bar will easily outlast three medium sized bottles of traditional conditioner! <br></p>
+<p>Benefits include:<br>-  Paraben Free <br> - Luxurious Formula<br>- Travel &amp; Camping Friendly <br> - pH Balanced <br> - Vegan Friendly <br> - Long Lasting <br> - Mother Nature Approved <br> - Suitable For All Hair Types <br> - Beautiful, Soft, &amp; Shiny Hair<br><span></span><span>*These products are packaged together as shown in the photos*</span></p>
+<p><span><strong>Note: These bars do contain Vanilla Oil and may change colors in time. Safe to still use.</strong></span></p>
+<p><span><strong>Made in USA</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar Block</s:tag>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>hair</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shampoo Bar</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6633831891022</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>DB5473A</s:sku>
+      <s:grams>116</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6633830121550</id>
+    <published>2021-08-09T13:49:49-05:00</published>
+    <updated>2021-08-09T13:49:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/citrus-got-real-shampoo-conditioner-bar-set-with-bar-block"/>
+    <title>Citrus Got Real Shampoo &amp; Conditioner Bar Set with Bar Block</title>
+    <s:type>Hair</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/ConditionerBar-46_2a7fbfd8-a81c-415b-b889-adc4ae47e6a6.jpg?v=1628535179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Hair<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee Body |  Shampoo &amp; Conditioner Bars Set with Bar Block</strong></p>
+<p><strong>Citrus Got Real : <span>Satsuma with a burst of Citrus</span></strong></p>
+<p><strong></strong><strong><span></span></strong>Our Shampoo &amp; <span>Conditioner </span>bars are super concentrated and contain only luxurious, salon quality ingredients. Convenient, compact, and environmentally friendly, each bar will easily outlast three medium sized bottles of traditional conditioner! <br></p>
+<p>Benefits include:<br>-  Paraben Free <br> - Luxurious Formula<br>- Travel &amp; Camping Friendly <br> - pH Balanced <br> - Vegan Friendly <br> - Long Lasting <br> - Mother Nature Approved <br> - Suitable For All Hair Types <br> - Beautiful, Soft, &amp; Shiny Hair<br><span></span><span>*These products are packaged together as shown in the photos*</span></p>
+<p><span><strong>Note: These bars do contain Vanilla Oil and may change colors in time. Safe to still use.</strong></span></p>
+<p><span><strong>Made in USA</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar Block</s:tag>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>hair</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shampoo Bar</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6633830121550</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>DB5470A</s:sku>
+      <s:grams>116</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6633829597262</id>
+    <published>2021-08-09T13:47:14-05:00</published>
+    <updated>2021-08-09T13:47:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/turqoise-and-lace-shampoo-conditioner-bar-set-with-bar-block"/>
+    <title>Turquoise &amp; Lace Shampoo &amp; Conditioner Bar Set with Bar Block</title>
+    <s:type>Hair</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/ConditionerBar-31_3b8756d0-7e63-4ef5-b929-87a9f662f23d.jpg?v=1628534879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Hair<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee Body |  Shampoo &amp; Conditioner Bars Set with Bar Block</strong></p>
+<p><strong>Turquoise &amp; Lace : <span>Clean fresh linen mixed with the smell of Arizona Summer</span></strong></p>
+<p><strong></strong><strong><span></span></strong>Our Shampoo &amp; <span>Conditioner </span>bars are super concentrated and contain only luxurious, salon quality ingredients. Convenient, compact, and environmentally friendly, each bar will easily outlast three medium sized bottles of traditional conditioner! <br></p>
+<p>Benefits include:<br>-  Paraben Free <br> - Luxurious Formula<br>- Travel &amp; Camping Friendly <br> - pH Balanced <br> - Vegan Friendly <br> - Long Lasting <br> - Mother Nature Approved <br> - Suitable For All Hair Types <br> - Beautiful, Soft, &amp; Shiny Hair<br><span></span><span>*These products are packaged together as shown in the photos*</span></p>
+<p><span><strong>Note: These bars do contain Vanilla Oil and may change colors in time. Safe to still use.</strong></span></p>
+<p><span><strong>Made in USA</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar Block</s:tag>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>hair</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shampoo Bar</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6633829597262</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>DB5469A</s:sku>
+      <s:grams>116</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6633829007438</id>
+    <published>2021-08-09T13:45:41-05:00</published>
+    <updated>2021-08-09T13:45:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/puppy-paws-shampoo-conditioner-bar-set-with-bar-block"/>
+    <title>Puppy Paws Shampoo &amp; Conditioner Bar Set with Bar Block</title>
+    <s:type>Hair</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Hair<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee Body |  Shampoo &amp; Conditioner Bars Set with Bar Block</strong></p>
+<p><strong>Puppy Paws : <span>Invigorating minty scent</span></strong></p>
+<p><strong></strong><strong><span></span></strong>Our Shampoo &amp; <span>Conditioner </span>bars are super concentrated and contain only luxurious, salon quality ingredients. Convenient, compact, and environmentally friendly, each bar will easily outlast three medium sized bottles of traditional conditioner! <br></p>
+<p>Benefits include:<br>-  Paraben Free <br> - Luxurious Formula<br>- Travel &amp; Camping Friendly <br> - pH Balanced <br> - Vegan Friendly <br> - Long Lasting <br> - Mother Nature Approved <br> - Suitable For All Hair Types <br> - Beautiful, Soft, &amp; Shiny Hair<br><span></span><span>*These products are packaged together as shown in the photos*</span></p>
+<p><span><strong>Note: These bars do contain Vanilla Oil and may change colors in time. Safe to still use.</strong></span></p>
+<p><span><strong>Made in USA</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar Block</s:tag>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>hair</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shampoo Bar</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6633829007438</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.99</s:price>
+      <s:sku>DB5467A</s:sku>
+      <s:grams>116</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6620475686990</id>
+    <published>2021-08-09T13:44:31-05:00</published>
+    <updated>2021-08-09T13:44:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/rocket-bubble-popper-fidgets"/>
+    <title>Rocket Bubble Popper Fidgets</title>
+    <s:type>Popper</s:type>
+    <s:vendor>Boujie Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/228725663_4802491996433618_755679804507581300_n.jpg?v=1628534658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boujie Bee<br>
+        <strong>Type: </strong>Popper<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Boujie Bee Bubble Popper Fidgets</span></p>
+<p>• DECOMPRESSION ARTIFACT --- Push bubble fidget toy is a very popular Puzzle game toy for people to relieve stress and anxiety. It could help relax the mood. This foam sensory toy is a great gift for people with ADHD or autism, helping them relieve anxiety and calm down.<br></p>
+<p><span data-mce-fragment="1">• UNIQUE GRAFFITI DESIGN --- Graffiti with a sense of creativity and design, these rainbow fidget toys can not only exercise childrens color perception ability but stimulate their imagination and creativity. Besides, made of high-quality waterproof silicone, it is kid-friendly, safe, and very comfortable to touch.</span></p>
+<p><span data-mce-fragment="1"> • PORTABLE &amp; REUSABLE ---- Double-sided usage fidget toy could be reused for a long time. This lightweight toy is really convenient to use in schools, classrooms, and offices. A great gift for Birthdays, Christmas, Thanksgiving. </span></p>
+<p><span data-mce-fragment="1">• WIDELY USED --- This pop bubble toy is suitable for all ages. At the same time, it can also satisfy the babys curios</span><br data-mce-fragment="1"><span data-mce-fragment="1"></span></p>
+<p><span data-mce-fragment="1">Made in </span><span data-mce-fragment="1">China</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boujie Bee</s:tag>
+    <s:tag>bubble popper</s:tag>
+    <s:tag>drop ship</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>fidget</s:tag>
+    <s:tag>Rocket</s:tag>
+    <s:tag>stress relief</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6620475686990</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>DB5139A</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.dirtybeeshop.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.dirtybeeshop.com/collections/shave-butter.atom"/>
+  <title>DIRTY BEE</title>
+  <updated>2021-04-05T10:19:54-05:00</updated>
+  <author>
+    <name>DIRTY BEE</name>
+  </author>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6558020796494</id>
+    <published>2021-04-05T10:19:54-05:00</published>
+    <updated>2021-04-05T10:19:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/skyfall-shave-butter"/>
+    <title>Skyfall Shave Butter</title>
+    <s:type>Shave Butter</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/ShaveButter-05.jpg?v=1627917727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Shave Butter<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Now with even more shea! Our fresh and creamy Skyfall Shave Cream features notes of Cocoa Bean and Shea Butter. Get your softest, smoothest (and closest) shave ever. Our rich, non-foaming shave cream contains instantly moisturizing shea oil + lasting protection shea butter for incredible 24-hr hydration and lasting skin comfort. Soothing Aloe conditions + calms for the silky smooth shave your skin deserves. Say hello to, smooth, comfort, wet + dry, protection. Say goodbye to: nicks, cuts, irritation, razor burn. </span></p>
+<p>Directions: Apply generously over desired area of shaving, use razor to shave and rinse throughly.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Shave</s:tag>
+    <s:tag>Skyfall</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6558020796494</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>DB2195A</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4817146347598</id>
+    <published>2020-09-01T13:05:43-05:00</published>
+    <updated>2020-09-01T13:05:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/island-pink-shave-butter"/>
+    <title>Island Pink Shave Butter</title>
+    <s:type>Shave Butter</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/ShaveButter-07.jpg?v=1627917695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Shave Butter<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Now with even more shea! Our fresh and creamy Island Pink Shave Cream features notes of Cocoa Bean and Shea Butter. Get your softest, smoothest (and closest) shave ever. Our rich, non-foaming shave cream contains instantly moisturizing shea oil + lasting protection shea butter for incredible 24-hr hydration and lasting skin comfort. Soothing Aloe conditions + calms for the silky smooth shave your skin deserves. Say hello to, smooth, comfort, wet + dry, protection. Say goodbye to: nicks, cuts, irritation, razor burn. </span></p>
+<p>Directions: Apply generously over desired area of shaving, use razor to shave and rinse throughly.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Island Pink</s:tag>
+    <s:tag>Shave</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4817146347598</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>DB1649A</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4817146216526</id>
+    <published>2020-09-01T13:03:48-05:00</published>
+    <updated>2020-09-01T13:03:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/montecito-shave-butter"/>
+    <title>Montecito Shave Butter</title>
+    <s:type>Shave Butter</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/ShaveButter-03_c08e5f41-7cba-4928-9905-10822db1d8a5.jpg?v=1627917708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Shave Butter<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Now with even more shea! Our fresh and creamy Montecito Shave Cream features notes of Cocoa Bean and Shea Butter. Get your softest, smoothest (and closest) shave ever. Our rich, non-foaming shave cream contains instantly moisturizing shea oil + lasting protection shea butter for incredible 24-hr hydration and lasting skin comfort. Soothing Aloe conditions + calms for the silky smooth shave your skin deserves. Say hello to, smooth, comfort, wet + dry, protection. Say goodbye to: nicks, cuts, irritation, razor burn.</span></p>
+<p data-mce-fragment="1">Directions: Apply generously over desired area of shaving, use razor to shave and rinse throughly.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Montecito</s:tag>
+    <s:tag>Shave</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4817146216526</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>DB1652A</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+</feed>

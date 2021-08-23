@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.dirtybeeshop.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.dirtybeeshop.com/collections/soap.atom"/>
+  <title>DIRTY BEE</title>
+  <updated>2021-08-03T09:35:24-05:00</updated>
+  <author>
+    <name>DIRTY BEE</name>
+  </author>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6632166654030</id>
+    <published>2021-08-03T09:35:24-05:00</published>
+    <updated>2021-08-03T09:35:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/electric-lemonade-natural-soap-bars-4oz"/>
+    <title>New!!! Electric Lemonade Natural Soap Bars 4oz</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/SoapSquares-ElectricLemonade-01.jpg?v=1627945190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Our gentle olive oil soap cleanses and hydrates the face and body. Made with antioxidant enriched olive oil to keep skin smooth and supply all the natural essentails to your skin leaving you feeling clean and refreshed</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>electric lemonade</s:tag>
+    <s:tag>Natural Bar Soap</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6632166654030</id>
+      <title>Electric Lemonade</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>DB5335A</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6632166522958</id>
+    <published>2021-08-03T09:35:23-05:00</published>
+    <updated>2021-08-03T09:35:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/dead-sea-salt-natural-soap-bars-4oz"/>
+    <title>New!!! Dead Sea Salt  Natural Soap Bars 4oz</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/SoapSquares-Unscented-01.jpg?v=1627945132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Our gentle olive oil soap cleanses and hydrates the face and body. Made with antioxidant enriched olive oil to keep skin smooth and supply all the natural essentails to your skin leaving you feeling clean and refreshed</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>dead sea salt</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Natural Bar Soap</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6632166522958</id>
+      <title>Dead Sea Salt</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>DB5334A</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6632166424654</id>
+    <published>2021-08-03T09:35:22-05:00</published>
+    <updated>2021-08-03T09:35:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/hippie-natural-soap-bars-4oz"/>
+    <title>New!!! Hippie Natural Soap Bars 4oz</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/SoapSquares-Hippie-01.jpg?v=1627945094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Our gentle olive oil soap cleanses and hydrates the face and body. Made with antioxidant enriched olive oil to keep skin smooth and supply all the natural essentails to your skin leaving you feeling clean and refreshed</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Hippie</s:tag>
+    <s:tag>Natural Bar Soap</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6632166424654</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>DB5333A</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6621967188046</id>
+    <published>2021-07-07T10:40:34-05:00</published>
+    <updated>2021-07-07T10:40:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/tea-tree-natural-soap-bars-4oz"/>
+    <title>Tea Tree Natural Soap Bars 4oz</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/NaturalBarSoap-05_1.png?v=1625672453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Our gentle olive oil soap cleanses and hydrates the face and body. Made with antioxidant enriched olive oil to keep skin smooth and supply all the natural essentails to your skin leaving you feeling clean and refreshed</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Natural Bar Soap</s:tag>
+    <s:tag>tea tree</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6621967188046</id>
+      <title>Tea Tree</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>DB5219A</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6621966598222</id>
+    <published>2021-07-07T10:38:35-05:00</published>
+    <updated>2021-07-07T10:38:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/coffee-natural-soap-bars-4oz"/>
+    <title>New!!! Coffee Natural Soap Bars 4oz</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/NaturalBarSoap-14.png?v=1625672336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Our gentle olive oil soap cleanses and hydrates the face and body. Made with antioxidant enriched olive oil to keep skin smooth and supply all the natural essentails to your skin leaving you feeling clean and refreshed</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>coffee</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Natural Bar Soap</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6621966598222</id>
+      <title>Coffee</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>DB5010A</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6621965484110</id>
+    <published>2021-07-07T10:33:02-05:00</published>
+    <updated>2021-07-07T10:33:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/montecito-natural-soap-bars-4oz"/>
+    <title>New!!! Montecito Natural Soap Bars 4oz</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/NaturalBarSoap-02_1.png?v=1625672005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Our gentle olive oil soap cleanses and hydrates the face and body. Made with antioxidant enriched olive oil to keep skin smooth and supply all the natural essentails to your skin leaving you feeling clean and refreshed</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Montecito</s:tag>
+    <s:tag>Natural Bar Soap</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6621965484110</id>
+      <title>Montecito</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>DB5014A</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6621965221966</id>
+    <published>2021-07-07T10:31:24-05:00</published>
+    <updated>2021-07-07T10:31:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/turquiose-and-lace-natural-soap-bars-4oz"/>
+    <title>New!!! Turquoise and Lace  Natural Soap Bars 4oz</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/NaturalBarSoap-08_1.png?v=1625671902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Our gentle olive oil soap cleanses and hydrates the face and body. Made with antioxidant enriched olive oil to keep skin smooth and supply all the natural essentails to your skin leaving you feeling clean and refreshed</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Natural Bar Soap</s:tag>
+    <s:tag>Turquoise &amp; Lace</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6621965221966</id>
+      <title>Turquoise and Lace</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>DB5015A</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6621964828750</id>
+    <published>2021-07-07T10:30:02-05:00</published>
+    <updated>2021-07-07T10:30:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/island-pink-natural-soap-bars-4oz"/>
+    <title>New!!! Island Pink Natural Soap Bars 4oz</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/NaturalBarSoap-23.png?v=1625671824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Our gentle olive oil soap cleanses and hydrates the face and body. Made with antioxidant enriched olive oil to keep skin smooth and supply all the natural essentails to your skin leaving you feeling clean and refreshed</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Island Pink</s:tag>
+    <s:tag>Natural Bar Soap</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6621964828750</id>
+      <title>Island Pink</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>DB5008A</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6621964468302</id>
+    <published>2021-07-07T10:28:19-05:00</published>
+    <updated>2021-07-07T10:28:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/skyfall-natural-soap-bars-4oz"/>
+    <title>New!!! Skyfall Natural Soap Bars 4oz</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/NaturalBarSoap-17.png?v=1625671722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Our gentle olive oil soap cleanses and hydrates the face and body. Made with antioxidant enriched olive oil to keep skin smooth and supply all the natural essentails to your skin leaving you feeling clean and refreshed</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Natural Bar Soap</s:tag>
+    <s:tag>skyfall</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6621964468302</id>
+      <title>Skyfall</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>DB5011A</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6621964140622</id>
+    <published>2021-07-07T10:26:48-05:00</published>
+    <updated>2021-07-07T10:26:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/luau-natural-soap-bars-4oz"/>
+    <title>New!!! Luau Natural Soap Bars 4oz</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/NaturalBarSoap-20.png?v=1625671626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Our gentle olive oil soap cleanses and hydrates the face and body. Made with antioxidant enriched olive oil to keep skin smooth and supply all the natural essentails to your skin leaving you feeling clean and refreshed</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Luau</s:tag>
+    <s:tag>Natural Bar Soap</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6621964140622</id>
+      <title>Luau</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>DB5013A</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/6621960929358</id>
+    <published>2021-07-07T10:10:52-05:00</published>
+    <updated>2021-07-07T10:10:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/charcoal-natural-soap-bars-4oz"/>
+    <title>New!!! Charcoal Natural Soap Bars 4oz</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/NaturalBarSoap-11_1.png?v=1625671512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Our gentle olive oil soap cleanses and hydrates the face and body. Made with antioxidant enriched olive oil to keep skin smooth and supply all the natural essentails to your skin leaving you feeling clean and refreshed</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Charcoal</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Natural Bar Soap</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/6621960929358</id>
+      <title>Charcoal</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>DB5009A</s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4801363017806</id>
+    <published>2020-08-05T13:40:18-05:00</published>
+    <updated>2020-08-05T13:40:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/island-pink-body-wash"/>
+    <title>Island Pink Body Wash</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/BodyWash-11.jpg?v=1626377814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee Body |  Body Wash</strong></p>
+<p><span>Ingredients: Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Cocamide DEA, Polysorbate 80, Fragrance, Red 33</span><br><br><strong>Handmade in the USA </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Body Wash</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Island Pink</s:tag>
+    <s:tag>Soap</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4801363017806</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>DB1623A</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4801362526286</id>
+    <published>2020-08-05T13:40:17-05:00</published>
+    <updated>2020-08-05T13:40:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/montecito-body-wash"/>
+    <title>Montecito Body Wash</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/BodyWash-05.jpg?v=1626377861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee Body |  Body Wash</strong></p>
+<p><span>Ingredients: Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Cocamide DEA, Polysorbate 80, Fragrance, Blue 1</span><br><br><strong>Handmade in the USA </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Body Wash</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Montecito</s:tag>
+    <s:tag>Soap</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4801362526286</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>DB1622A</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4801361969230</id>
+    <published>2020-08-05T13:40:16-05:00</published>
+    <updated>2020-08-05T13:40:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/coconut-lime-body-wash"/>
+    <title>Coconut Lime Body Wash</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/BodyWash-09.jpg?v=1626377773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee Body |  Body Wash</strong></p>
+<p><span>Ingredients: Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Cocamide DEA, Polysorbate 80, Fragrance, Yellow 10 Lake, Blue 1 Lake</span><br><br><strong>Handmade in the USA </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Body Wash</s:tag>
+    <s:tag>Coconut Lime</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Soap</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4801361969230</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>DB1621A</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4801361444942</id>
+    <published>2020-08-05T13:40:15-05:00</published>
+    <updated>2020-08-05T13:40:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/skyfall-body-wash"/>
+    <title>Skyfall Body Wash</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/BodyWash-07.jpg?v=1626378048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee Body |  Body Wash</strong></p>
+<p><span>Ingredients: Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Cocamide DEA, Polysorbate 80, Fragrance, Ext Violet 2, Green 5, Blue 1, Red 33</span><br><br><strong>Handmade in the USA </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Body Wash</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Skyfall</s:tag>
+    <s:tag>Soap</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4801361444942</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>DB1620A</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4801350500430</id>
+    <published>2020-08-05T13:40:14-05:00</published>
+    <updated>2020-08-05T13:40:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/pineapple-mango-body-wash"/>
+    <title>Pineapple Mango Body Wash</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/BodyWash-03.jpg?v=1626377988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dirty Bee Body |  Body Wash</strong></p>
+<p><span>Ingredients: Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Cocamide DEA, Polysorbate 80, Fragrance, Orange 4</span><br><br><strong>Handmade in the USA </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Body Wash</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Pineapple Mango</s:tag>
+    <s:tag>Soap</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4801350500430</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>DB1619A</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4791206871118</id>
+    <published>2020-07-21T13:27:47-05:00</published>
+    <updated>2020-07-21T13:27:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/bloom-loofah-soap"/>
+    <title>Bloom Loofah Soap</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/LoofahSoap-11.jpg?v=1626141384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div></div>
+<p>Say Goodbye to plastic sponges with this plant fiber natural loofah soap! </p>
+<p><span>Do you want to get rid of stress and tension that you feel on your body? Well, one of the best solutions that you can make is to use the efficient Loofah sponge on your daily shower. It can relive stress and at the same time you can have the chance to achieve a young looking, attractive as well as healthy Skin</span><span>. With this, you can now level up your beauty and confidence as you walk in front of others. Are you a budget conscious person who has high standards for your beauty and health goals? Then, the Loofah sponge is the perfect one for you!</span></p>
+<p>The Natural Loofah will expand in contact with water. After each use rinse and let it dry out! </p>
+<ul>
+<li><em>The <b>Loofah</b> sponge is composed of slightly rough fibers that are very helpful to exfoliate your skin. In addition to this, it is also beneficial for you to eliminate dead skin cells that will automatically give you smooth, youthful as well as glowing skin. It stimulates your skin's blood circulation.</em></li>
+<li><em> It stimulates your skin’s blood circulation. The friction that it creates as you use it on your shower will make the blood vessels to properly circulate the blood.</em></li>
+<li><em><span>The Loofah sponge is biodegradable so you can make sure that it will not cause any damage to the environment as well as to your skin. The best thing about this product is that it can be availed in just a very low cost without sacrificing its high class quality.</span></em></li>
+</ul>
+<p><em><strong>Bloom - Fresh and clean with a strong scent of Floral.</strong></em></p>
+<p><em><strong>Key Information About Our Loofah Soaps:</strong></em><br></p>
+<ul>
+<li>Travel Friendly</li>
+<li>100% Vegan</li>
+<li>Animal Cruelty-Free</li>
+<li>Reusable Container</li>
+<li>Mother Nature Approved</li>
+<li>Gluten Free</li>
+<li>100% American Ingredients </li>
+<li>100% Compostable &amp; Biodegradable </li>
+</ul>
+<p><em><strong>Suggested to change your loofah every 4-6 weeks.</strong></em></p>
+<p><em><strong>Ingredients:</strong> </em>Natural Loofah, Water, Glycerin, Sodium Stearate, Propylene Glycol, Sorbitol, Sodium Laurate, Sodium Laureth Sulfate, Sodium Lauryl Sulfate, Sodium Chloride, Stearic Acid, Pentasodium Pentetate, Tetrasodium Etidronate, Fragrance, Ext Violet 2, Green 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>Bloom</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Loofah Soap</s:tag>
+    <s:tag>Soap</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4791206871118</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>DB1595A</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4767194710094</id>
+    <published>2020-07-21T13:27:30-05:00</published>
+    <updated>2020-07-21T13:27:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/waterslide-loofah-soap"/>
+    <title>Waterslide Loofah Soap</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/LoofahSoap-09.jpg?v=1626141621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Say Goodbye to plastic sponges with this plant fiber natural loofah soap! <br></p>
+<p><span>Do you want to get rid of stress and tension that you feel on your body? Well, one of the best solutions that you can make is to use the efficient Loofah sponge on your daily shower. It can relive stress and at the same time you can have the chance to achieve a young looking, attractive as well as healthy Skin</span><span>. With this, you can now level up your beauty and confidence as you walk in front of others. Are you a budget conscious person who has high standards for your beauty and health goals? Then, the Loofah sponge is the perfect one for you!</span></p>
+<p>The Natural Loofah will expand in contact with water. After each use rinse and let it dry out! </p>
+<ul>
+<li><em>The <b>Loofah</b> sponge is composed of slightly rough fibers that are very helpful to exfoliate your skin. In addition to this, it is also beneficial for you to eliminate dead skin cells that will automatically give you smooth, youthful as well as glowing skin. It stimulates your skin's blood circulation.</em></li>
+<li><em> It stimulates your skin’s blood circulation. The friction that it creates as you use it on your shower will make the blood vessels to properly circulate the blood.</em></li>
+<li><em><span>The Loofah sponge is biodegradable so you can make sure that it will not cause any damage to the environment as well as to your skin. The best thing about this product is that it can be availed in just a very low cost without sacrificing its high class quality.</span></em></li>
+</ul>
+<p><strong><em>Waterslide - <span data-mce-fragment="1">Aquatic Blossoms, Orange &amp; Tangerine.</span></em></strong></p>
+<p><em><strong>Key Information About Our Loofah Soaps:</strong></em><br></p>
+<ul>
+<li>Travel Friendly</li>
+<li>100% Vegan</li>
+<li>Animal Cruelty-Free</li>
+<li>Reusable Container</li>
+<li>Mother Nature Approved</li>
+<li>Gluten Free</li>
+<li>100% American Ingredients </li>
+<li>100% Compostable &amp; Biodegradable </li>
+</ul>
+<p><em><strong>Suggested to change your loofah every 4-6 weeks.</strong></em></p>
+<p><em><strong>Ingredients:</strong><span> </span></em>Natural Loofah, Water, Glycerin, Sodium Stearate, Propylene Glycol, Sorbitol, Sodium Laurate, Sodium Laureth Sulfate, Sodium Lauryl Sulfate, Sodium Chloride, Stearic Acid, Pentasodium Pentetate, Tetrasodium Etidronate, Fragrance, Ext Violet 2, Green 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Loofah Soap</s:tag>
+    <s:tag>Soap</s:tag>
+    <s:tag>Waterslide</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4767194710094</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>DB1538A</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4767195234382</id>
+    <published>2020-07-02T19:58:46-05:00</published>
+    <updated>2020-07-02T19:58:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/montecito-loofah-soap"/>
+    <title>Montecito Loofah Soap</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/LoofahSoap-05_1.jpg?v=1626141579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Say Goodbye to plastic sponges with this plant fiber natural loofah soap! <br></p>
+<p><span>Do you want to get rid of stress and tension that you feel on your body? Well, one of the best solutions that you can make is to use the efficient Loofah sponge on your daily shower. It can relive stress and at the same time you can have the chance to achieve a young looking, attractive as well as healthy Skin</span><span>. With this, you can now level up your beauty and confidence as you walk in front of others. Are you a budget conscious person who has high standards for your beauty and health goals? Then, the Loofah sponge is the perfect one for you!</span></p>
+<p>The Natural Loofah will expand in contact with water. After each use rinse and let it dry out! </p>
+<ul>
+<li><em>The <b>Loofah</b> sponge is composed of slightly rough fibers that are very helpful to exfoliate your skin. In addition to this, it is also beneficial for you to eliminate dead skin cells that will automatically give you smooth, youthful as well as glowing skin. It stimulates your skin's blood circulation.</em></li>
+<li><em> It stimulates your skin’s blood circulation. The friction that it creates as you use it on your shower will make the blood vessels to properly circulate the blood.</em></li>
+<li><em><span>The Loofah sponge is biodegradable so you can make sure that it will not cause any damage to the environment as well as to your skin. The best thing about this product is that it can be availed in just a very low cost without sacrificing its high class quality.</span></em></li>
+</ul>
+<p><strong><em>Montecito - <span data-mce-fragment="1">Blend of Freesia, Floral Notes, and Citrus. Best SELLER!</span></em></strong></p>
+<p><em><strong>Key Information About Our Loofah Soaps:</strong></em><br></p>
+<ul>
+<li>Travel Friendly</li>
+<li>100% Vegan</li>
+<li>Animal Cruelty-Free</li>
+<li>Reusable Container</li>
+<li>Mother Nature Approved</li>
+<li>Gluten Free</li>
+<li>100% American Ingredients </li>
+<li>100% Compostable &amp; Biodegradable </li>
+</ul>
+<p><em><strong>Suggested to change your loofah every 4-6 weeks.</strong></em></p>
+<p><em><strong>Ingredients:</strong><span> </span></em>Natural Loofah, Water, Glycerin, Sodium Stearate, Propylene Glycol, Sorbitol, Sodium Laurate, Sodium Laureth Sulfate, Sodium Lauryl Sulfate, Sodium Chloride, Stearic Acid, Pentasodium Pentetate, Tetrasodium Etidronate, Fragrance, Ext Violet 2, Green 5</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Loofah Soap</s:tag>
+    <s:tag>Montecito</s:tag>
+    <s:tag>Soap</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4767195234382</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>DB1539A</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4265910468686</id>
+    <published>2019-10-16T11:09:14-05:00</published>
+    <updated>2019-10-16T11:09:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/coconut-lime-loofah-soap"/>
+    <title>Coconut Lime Loofah Soap</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/LoofahSoap-13_2.jpg?v=1626141412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Say Goodbye to plastic sponges with this plant fiber natural loofah soap! <br></p>
+<p><span>Do you want to get rid of stress and tension that you feel on your body? Well, one of the best solutions that you can make is to use the efficient Loofah sponge on your daily shower. It can relive stress and at the same time you can have the chance to achieve a young looking, attractive as well as healthy Skin</span><span>. With this, you can now level up your beauty and confidence as you walk in front of others. Are you a budget conscious person who has high standards for your beauty and health goals? Then, the Loofah sponge is the perfect one for you!</span></p>
+<p>The Natural Loofah will expand in contact with water. After each use rinse and let it dry out! </p>
+<ul>
+<li><em>The <b>Loofah</b> sponge is composed of slightly rough fibers that are very helpful to exfoliate your skin. In addition to this, it is also beneficial for you to eliminate dead skin cells that will automatically give you smooth, youthful as well as glowing skin. It stimulates your skin's blood circulation.</em></li>
+<li><em> It stimulates your skin’s blood circulation. The friction that it creates as you use it on your shower will make the blood vessels to properly circulate the blood.</em></li>
+<li><em><span>The Loofah sponge is biodegradable so you can make sure that it will not cause any damage to the environment as well as to your skin. The best thing about this product is that it can be availed in just a very low cost without sacrificing its high class quality.</span></em></li>
+</ul>
+<p><strong><em>Coconut Lime - <span data-mce-fragment="1">Margarita Smell with a Dash of Refreshing Coconut.</span></em></strong></p>
+<p><em><strong>Key Information About Our Loofah Soaps:</strong></em><br></p>
+<ul>
+<li>Travel Friendly</li>
+<li>100% Vegan</li>
+<li>Animal Cruelty-Free</li>
+<li>Reusable Container</li>
+<li>Mother Nature Approved</li>
+<li>Gluten Free</li>
+<li>100% American Ingredients </li>
+<li>100% Compostable &amp; Biodegradable </li>
+</ul>
+<p><em><strong>Suggested to change your loofah every 4-6 weeks.</strong></em></p>
+<p><em><strong>Ingredients:</strong><span> </span></em>Natural Loofah, Water, Glycerin, Sodium Stearate, Propylene Glycol, Sorbitol, Sodium Laurate, Sodium Laureth Sulfate, Sodium Lauryl Sulfate, Sodium Chloride, Stearic Acid, Pentasodium Pentetate, Tetrasodium Etidronate, Fragrance, Ext Violet 2, Green 5</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Coconut Lime</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>soap</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4265910468686</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>DB01879</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4265907650638</id>
+    <published>2019-10-16T11:08:26-05:00</published>
+    <updated>2019-10-16T11:08:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/island-pink-loofah-soap"/>
+    <title>Island Pink Loofah Soap</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/LoofahSoap-03.jpg?v=1626141548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Say Goodbye to plastic sponges with this plant fiber natural loofah soap! <br></p>
+<p><span>Do you want to get rid of stress and tension that you feel on your body? Well, one of the best solutions that you can make is to use the efficient Loofah sponge on your daily shower. It can relive stress and at the same time you can have the chance to achieve a young looking, attractive as well as healthy Skin</span><span>. With this, you can now level up your beauty and confidence as you walk in front of others. Are you a budget conscious person who has high standards for your beauty and health goals? Then, the Loofah sponge is the perfect one for you!</span></p>
+<p>The Natural Loofah will expand in contact with water. After each use rinse and let it dry out! </p>
+<ul>
+<li><em>The <b>Loofah</b> sponge is composed of slightly rough fibers that are very helpful to exfoliate your skin. In addition to this, it is also beneficial for you to eliminate dead skin cells that will automatically give you smooth, youthful as well as glowing skin. It stimulates your skin's blood circulation.</em></li>
+<li><em> It stimulates your skin’s blood circulation. The friction that it creates as you use it on your shower will make the blood vessels to properly circulate the blood.</em></li>
+<li><em><span>The Loofah sponge is biodegradable so you can make sure that it will not cause any damage to the environment as well as to your skin. The best thing about this product is that it can be availed in just a very low cost without sacrificing its high class quality.</span></em></li>
+</ul>
+<p><strong><em>Island Pink - <span data-mce-fragment="1">Tropical citrus and floral.</span></em></strong></p>
+<p><em><strong>Key Information About Our Loofah Soaps:</strong></em><br></p>
+<ul>
+<li>Travel Friendly</li>
+<li>100% Vegan</li>
+<li>Animal Cruelty-Free</li>
+<li>Reusable Container</li>
+<li>Mother Nature Approved</li>
+<li>Gluten Free</li>
+<li>100% American Ingredients </li>
+<li>100% Compostable &amp; Biodegradable </li>
+</ul>
+<p><em><strong>Suggested to change your loofah every 4-6 weeks.</strong></em></p>
+<p><em><strong>Ingredients:</strong><span> </span></em>Natural Loofah, Water, Glycerin, Sodium Stearate, Propylene Glycol, Sorbitol, Sodium Laurate, Sodium Laureth Sulfate, Sodium Lauryl Sulfate, Sodium Chloride, Stearic Acid, Pentasodium Pentetate, Tetrasodium Etidronate, Fragrance, Ext Violet 2, Green 5</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Island Pink</s:tag>
+    <s:tag>Loofah Soap</s:tag>
+    <s:tag>Soap</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4265907650638</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>DB01878</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4265905750094</id>
+    <published>2019-10-16T11:07:47-05:00</published>
+    <updated>2019-10-16T11:07:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/boyfriend-loofah-soap"/>
+    <title>Boyfriend Loofah Soap</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/LoofahSoap-07_2.jpg?v=1626141521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Say Goodbye to plastic sponges with this plant fiber natural loofah soap! <br></p>
+<p><span>Do you want to get rid of stress and tension that you feel on your body? Well, one of the best solutions that you can make is to use the efficient Loofah sponge on your daily shower. It can relive stress and at the same time you can have the chance to achieve a young looking, attractive as well as healthy Skin</span><span>. With this, you can now level up your beauty and confidence as you walk in front of others. Are you a budget conscious person who has high standards for your beauty and health goals? Then, the Loofah sponge is the perfect one for you!</span></p>
+<p>The Natural Loofah will expand in contact with water. After each use rinse and let it dry out! </p>
+<ul>
+<li><em>The <b>Loofah</b> sponge is composed of slightly rough fibers that are very helpful to exfoliate your skin. In addition to this, it is also beneficial for you to eliminate dead skin cells that will automatically give you smooth, youthful as well as glowing skin. It stimulates your skin's blood circulation.</em></li>
+<li><em> It stimulates your skin’s blood circulation. The friction that it creates as you use it on your shower will make the blood vessels to properly circulate the blood.</em></li>
+<li><em><span>The Loofah sponge is biodegradable so you can make sure that it will not cause any damage to the environment as well as to your skin. The best thing about this product is that it can be availed in just a very low cost without sacrificing its high class quality.</span></em></li>
+</ul>
+<p><strong><em>Boyfriend -</em> <em>Unisex blend of woodsy and berry scents</em></strong></p>
+<p><em><strong>Key Information About Our Loofah Soaps:</strong></em><br></p>
+<ul>
+<li>Travel Friendly</li>
+<li>100% Vegan</li>
+<li>Animal Cruelty-Free</li>
+<li>Reusable Container</li>
+<li>Mother Nature Approved</li>
+<li>Gluten Free</li>
+<li>100% American Ingredients </li>
+<li>100% Compostable &amp; Biodegradable </li>
+</ul>
+<p><em><strong>Suggested to change your loofah every 4-6 weeks.</strong></em></p>
+<p><em><strong>Ingredients:</strong><span> </span></em>Natural Loofah, Water, Glycerin, Sodium Stearate, Propylene Glycol, Sorbitol, Sodium Laurate, Sodium Laureth Sulfate, Sodium Lauryl Sulfate, Sodium Chloride, Stearic Acid, Pentasodium Pentetate, Tetrasodium Etidronate, Fragrance, Ext Violet 2, Green 5</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Boyfriend</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Loofah Soap</s:tag>
+    <s:tag>Soap</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4265905750094</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>DB01877</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4265902702670</id>
+    <published>2019-10-16T11:07:00-05:00</published>
+    <updated>2019-10-16T11:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/turquoise-lace-loofah-soap"/>
+    <title>Turquoise &amp; Lace Loofah Soap</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/LoofahSoap-TurquoiseandLace-03.jpg?v=1627937459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Say Goodbye to plastic sponges with this plant fiber natural loofah soap! <br></p>
+<p><span>Do you want to get rid of stress and tension that you feel on your body? Well, one of the best solutions that you can make is to use the efficient Loofah sponge on your daily shower. It can relive stress and at the same time you can have the chance to achieve a young looking, attractive as well as healthy Skin</span><span>. With this, you can now level up your beauty and confidence as you walk in front of others. Are you a budget conscious person who has high standards for your beauty and health goals? Then, the Loofah sponge is the perfect one for you!</span></p>
+<p>The Natural Loofah will expand in contact with water. After each use rinse and let it dry out! </p>
+<ul>
+<li><em>The <b>Loofah</b> sponge is composed of slightly rough fibers that are very helpful to exfoliate your skin. In addition to this, it is also beneficial for you to eliminate dead skin cells that will automatically give you smooth, youthful as well as glowing skin. It stimulates your skin's blood circulation.</em></li>
+<li><em> It stimulates your skin’s blood circulation. The friction that it creates as you use it on your shower will make the blood vessels to properly circulate the blood.</em></li>
+<li><em><span>The Loofah sponge is biodegradable so you can make sure that it will not cause any damage to the environment as well as to your skin. The best thing about this product is that it can be availed in just a very low cost without sacrificing its high class quality.</span></em></li>
+</ul>
+<p><em><strong>Turquoise &amp; Lace - <span data-mce-fragment="1">Fresh linen mixed with Arizona Summer.</span></strong></em></p>
+<p><em><strong>Key Information About Our Loofah Soaps:</strong></em><br></p>
+<ul>
+<li>Travel Friendly</li>
+<li>100% Vegan</li>
+<li>Animal Cruelty-Free</li>
+<li>Reusable Container</li>
+<li>Mother Nature Approved</li>
+<li>Gluten Free</li>
+<li>100% American Ingredients </li>
+<li>100% Compostable &amp; Biodegradable </li>
+</ul>
+<p><em><strong>Suggested to change your loofah every 4-6 weeks.</strong></em></p>
+<p><em><strong>Ingredients:</strong><span> </span></em>Natural Loofah, Water, Glycerin, Sodium Stearate, Propylene Glycol, Sorbitol, Sodium Laurate, Sodium Laureth Sulfate, Sodium Lauryl Sulfate, Sodium Chloride, Stearic Acid, Pentasodium Pentetate, Tetrasodium Etidronate, Fragrance, Ext Violet 2, Green 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Loofah Soap</s:tag>
+    <s:tag>Soap</s:tag>
+    <s:tag>Turquoise &amp; Lace</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4265902702670</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>DB01876</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.dirtybeeshop.com/products/4265844211790</id>
+    <published>2019-10-16T10:56:08-05:00</published>
+    <updated>2019-10-16T10:56:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.dirtybeeshop.com/products/pineapple-mango-loofah-soaps"/>
+    <title>Pineapple Mango Loofah Soap</title>
+    <s:type>Soap</s:type>
+    <s:vendor>Dirty Bee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2179/4427/products/LoofahSoap-PineappleMango-03.jpg?v=1627937392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dirty Bee<br>
+        <strong>Type: </strong>Soap<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Say Goodbye to plastic sponges with this plant fiber natural loofah soap! <br></p>
+<p><span>Do you want to get rid of stress and tension that you feel on your body? Well, one of the best solutions that you can make is to use the efficient Loofah sponge on your daily shower. It can relive stress and at the same time you can have the chance to achieve a young looking, attractive as well as healthy Skin</span><span>. With this, you can now level up your beauty and confidence as you walk in front of others. Are you a budget conscious person who has high standards for your beauty and health goals? Then, the Loofah sponge is the perfect one for you!</span></p>
+<p>The Natural Loofah will expand in contact with water. After each use rinse and let it dry out! </p>
+<ul>
+<li><em>The <b>Loofah</b> sponge is composed of slightly rough fibers that are very helpful to exfoliate your skin. In addition to this, it is also beneficial for you to eliminate dead skin cells that will automatically give you smooth, youthful as well as glowing skin. It stimulates your skin's blood circulation.</em></li>
+<li><em> It stimulates your skin’s blood circulation. The friction that it creates as you use it on your shower will make the blood vessels to properly circulate the blood.</em></li>
+<li><em><span>The Loofah sponge is biodegradable so you can make sure that it will not cause any damage to the environment as well as to your skin. The best thing about this product is that it can be availed in just a very low cost without sacrificing its high class quality.</span></em></li>
+</ul>
+<p><strong><em>Pineapple Mango - <span data-mce-fragment="1">Tropical and rich coconut and sweet juicy pineapple.</span></em></strong></p>
+<p><em><strong>Key Information About Our Loofah Soaps:</strong></em><br></p>
+<ul>
+<li>Travel Friendly</li>
+<li>100% Vegan</li>
+<li>Animal Cruelty-Free</li>
+<li>Reusable Container</li>
+<li>Mother Nature Approved</li>
+<li>Gluten Free</li>
+<li>100% American Ingredients </li>
+<li>100% Compostable &amp; Biodegradable </li>
+</ul>
+<p><em><strong>Suggested to change your loofah every 4-6 weeks.</strong></em></p>
+<p><em><strong>Ingredients:</strong><span> </span></em>Natural Loofah, Water, Glycerin, Sodium Stearate, Propylene Glycol, Sorbitol, Sodium Laurate, Sodium Laureth Sulfate, Sodium Lauryl Sulfate, Sodium Chloride, Stearic Acid, Pentasodium Pentetate, Tetrasodium Etidronate, Fragrance, Ext Violet 2, Green 5</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bath &amp; Body</s:tag>
+    <s:tag>body</s:tag>
+    <s:tag>Dirty Bee</s:tag>
+    <s:tag>Dropship</s:tag>
+    <s:tag>Loofah Soap</s:tag>
+    <s:tag>Pineapple Mango</s:tag>
+    <s:tag>Soap</s:tag>
+    <s:variant>
+      <id>https://www.dirtybeeshop.com/products/4265844211790</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>DB01875</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+  </entry>
+</feed>
